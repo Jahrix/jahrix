@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-27T23:05:00.215-04:00"}
+{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-27T23:07:55.409-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
@@ -35,12 +35,12 @@ You’re welcome to peek inside and see what I’m cooking. If you find a broken
 
 ## 🗂️ Archive Structure (Quick Guide)
 
-| Section                 | Description                                             |
-| ----------------------- | ------------------------------------------------------- |
-| `📁 Ultimate Research/` | Deep dives on specific policy areas or political themes |
-| `📁 The Jahrix Show/`   | Jahrix Show rundown for scripts, or video outlines      |
-| `📁 Clips/`             | Timestamped moments from debates or content (TBA)       |
-| `📁 Debate Notes/`      | Argument trees + counterpoints                          |
+| Section                                       | Description                                             |
+| --------------------------------------------- | ------------------------------------------------------- |
+| `📁 Ultimate Research/`                       | Deep dives on specific policy areas or political themes |
+| `📁 [[02. The Jahrix Show (Daily Rundown)]]/` | Jahrix Show rundown for scripts, or video outlines      |
+| `📁 Clips/`                                   | Timestamped moments from debates or content (TBA)       |
+| `📁 Debate Notes/`                            | Argument trees + counterpoints                          |
 
 ---
 
