@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-27T22:26:20.751-04:00"}
+{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-27T23:05:00.215-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
-<p><span>🕒 <strong>Updated:</strong> 2025-06-27 10:26 PM</span></p>
+
 Welcome! You’ve landed on the hub for all the topics, sources, and thought trails I'm diving into.
 
 This vault is curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.youtube.com/@JahrixYT) — and it serves as the **central brain** for research I use in debates, streams, and long-form content. Everything in here is built for clarity, fact-checking, and long-term reference.
@@ -14,19 +14,11 @@ This vault is curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.yout
 
 > Here's what I'm working on **right now** or planning to cover soon:
 
-- 🧱 **Border Security & Drug Policy**  
-  - Mythbusting the wall  
-  - DEA reports, smuggling routes, tunnels  
-  - Decriminalization economics
-
+- 🧱 **Zohran Mamdani Win Causes Meltdown in MAGA Spheres**  
 - 🧠 **Media Bias & Political Strategy**  
   - Trump’s rhetoric vs reality  
   - Democrat messaging breakdowns  
   - How narratives shift online
-
-- 📊 **Data-Driven Debunking**  
-  - PolitiFact, FactCheck, and how to use them live  
-  - Framing truth without sounding preachy
 ---
 
 ## 🎥 How I Use This Archive
