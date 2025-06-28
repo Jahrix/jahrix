@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-video-production/scripts-and-prep/donald-trump-s-land-grab-explained/"}
+{"dg-publish":true,"permalink":"/04-video-production/scripts-and-prep/donald-trump-s-land-grab-explained/","created":"2025-01-12T16:05:05.813-05:00","updated":"2025-06-27T22:14:02.886-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-06-27T22:14:32.379-04:00"}
 ---
 
 ## Trump is A Liar

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-27T22:10:47.941-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
-<p><span>🕒 <strong>Updated:</strong> 2025-06-27 10:14 PM</span></p>
+<p><span>🕒 <strong>Updated:</strong> 2025-06-27 10:19 PM</span></p>
 Welcome! You’ve landed on the hub for all the topics, sources, and thought trails I'm diving into.
 
 This vault is curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.youtube.com/@JahrixYT) — and it serves as the **central brain** for research I use in debates, streams, and long-form content. Everything in here is built for clarity, fact-checking, and long-term reference.
