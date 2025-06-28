@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-video-production/scripts-and-prep/charlie-kirk-s-tweet-is-straight-up-racist-propaganda/","tags":["gardenEntry"],"created":"2025-06-27T22:59:50.579-04:00","updated":"2025-06-27T23:00:35.041-04:00"}
+{"dg-publish":true,"permalink":"/04-video-production/scripts-and-prep/charlie-kirk-s-tweet-is-straight-up-racist-propaganda/","created":"2025-06-27T22:59:50.579-04:00","updated":"2025-06-27T23:06:11.356-04:00"}
 ---
 
 > “Charlie Kirk just tweeted: _‘24 years ago a group of Muslims killed 2,753 people on 9/11. Now a Muslim Socialist is on pace to run New York City.’_
