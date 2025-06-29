@@ -32,6 +32,6 @@ This folder houses all debate prep, breakdowns, rebuttals, and post-debate debri
 
 ## 📅 Recent Debates
 
-- [[01. Debate Notes/01. Notes/Dean Withers vs Emily Debate Notes\|Dean Withers vs Emily Debate Notes]]
-- [[01. Debate Notes/01. Notes/Destiny vs. Lilly Gaddis LA Protests (06-10-2025)\|Destiny vs. Lilly Gaddis LA Protests (06-10-2025)]]
+- [[Dean Withers vs Emily Debate Notes\|Dean Withers vs Emily Debate Notes]]
+- [[Destiny vs. Lilly Gaddis LA Protests (06-10-2025)\|Destiny vs. Lilly Gaddis LA Protests (06-10-2025)]]
 --- 
