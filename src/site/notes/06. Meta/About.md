@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-27T23:07:55.409-04:00"}
+{"dg-publish":true,"permalink":"/06-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-28T01:04:45.134-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
@@ -35,12 +35,14 @@ You’re welcome to peek inside and see what I’m cooking. If you find a broken
 
 ## 🗂️ Archive Structure (Quick Guide)
 
-| Section                                       | Description                                             |
-| --------------------------------------------- | ------------------------------------------------------- |
-| `📁 Ultimate Research/`                       | Deep dives on specific policy areas or political themes |
-| `📁 [[02. The Jahrix Show (Daily Rundown)]]/` | Jahrix Show rundown for scripts, or video outlines      |
-| `📁 Clips/`                                   | Timestamped moments from debates or content (TBA)       |
-| `📁 Debate Notes/`                            | Argument trees + counterpoints                          |
+A centralized breakdown of key folders in my Obsidian vault. This keeps everything organized for The Jahrix Show and beyond.
+
+| 📁 Section                                     | 📄 Description                                                                                                                |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[Research Introduction \| Research Vault]]/   | Deep dives on specific policy areas or political themes. This is where the receipts, citations, and long-form analysis live.  |
+| 📁 [[02. The Jahrix Show (Daily Rundown)/00. Introduction/Jahrix Show Introduction\| Jahrix Show]]/ | Dedicated space for episodes, video outlines, and script notes for the show.                                                  |
+| `📁 Clips/`                                    | Timestamped segments pulled from streams, debates, or long-form content — useful for editing or Shorts planning. (TBA system) |
+| `📁 [[]]/`                                     | Argument trees, breakdowns of opposing views, and prepped counterpoints. Use for debates, panel shows, or Twitter clapbacks.  |
 
 ---
 
