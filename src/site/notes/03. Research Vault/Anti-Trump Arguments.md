@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-06-30T10:40:38.145-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-06-30T10:47:34.945-04:00"}
 ---
 
 ## Trump is A Liar
@@ -8,7 +8,7 @@
 
 ## Trump is Lazy
 
-> Donald Trump has offered little in the way of substantive policy, yet he’s already spent **37 out of 159 days—nearly 23.3% of his presidency—on the golf course**, according to [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/). These trips have cost American taxpayers **an estimated $51.8 million**.
+> Donald Trump has offered little in the way of substantive policy, yet he’s already spent **38 out of 162 days—nearly 23.5% of his presidency—on the golf course**, according to [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/). These trips have cost American taxpayers **an estimated $51.8 million**.
 
 ## Trump's OBBB (One Big Beautiful Bill) 
 
