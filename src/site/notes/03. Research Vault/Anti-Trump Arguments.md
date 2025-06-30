@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-06-27T22:14:32.379-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-06-30T10:40:38.145-04:00"}
 ---
 
 ## Trump is A Liar
@@ -44,7 +44,7 @@ This is a breakdown of **Donald Trump’s “One Big Beautiful Bill”**, with a
 | Rescind climate change money            |               ❌ BAD                | Kills clean energy jobs and ignores climate resilience.                                                                                                                                                                                                         |
 | Cuts to Medicaid                        |               ❌ BAD                | Devastating for low-income families, disabled people, and seniors.                                                                                                                                                                                              |
 
-## T
+
 
 ## Trump's Tariff Blunder
-Trump is a known TACO which stands 
+Trump is a known TACO which stands for 'Trump Always Chicken Out.' This is completely backed when, Trump says 2 weeks, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 
