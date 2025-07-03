@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-06-30T10:47:34.945-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-03T19:38:03.812-04:00"}
 ---
 
 ## Trump is A Liar
@@ -11,40 +11,104 @@
 > Donald Trump has offered little in the way of substantive policy, yet he’s already spent **38 out of 162 days—nearly 23.5% of his presidency—on the golf course**, according to [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/). These trips have cost American taxpayers **an estimated $51.8 million**.
 
 ## Trump's OBBB (One Big Beautiful Bill) 
+### 🇺🇸 One Big Beautiful Bill (OBBBA) – Full Analysis
 
-This is a breakdown of **Donald Trump’s “One Big Beautiful Bill”**, with a special focus on how it affects **everyday Americans** making under $360,000/year — including working-class families, young professionals, and middle-income earners.
+The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025**, includes an unprecedented expansion of immigration enforcement aligned with Trump’s second-term policy agenda.
 
-> **Spoiler**: The top-line tax breaks sound nice. But when you dig deeper, you’ll see this bill mostly **benefits the ultra-wealthy** and corporations, while making life harder for regular people.
+> 🧨 **Spoiler**: The top-line tax breaks sound nice. But when you dig deeper, this bill mostly **benefits the ultra-wealthy and corporations** — while making life harder for working Americans.
 
-**Source of Chart**: [Washington Post + Committee for a Responsible Federal Budget](https://archive.ph/OlYUd/)  
+📊 **Source of Chart**: [Washington Post + Committee for a Responsible Federal Budget](https://archive.ph/OlYUd)
 
 ---
 
-### How Trump’s OBBB Impacts You (Visualized)
+## 💥 How Trump’s OBBB Impacts Working-Class Americans
 
-| **Policy**                              | **Good or Bad for Working-Class?** | **Why it Matters**                                                                                                                                                                                                                                              |
-| --------------------------------------- | :--------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Extend 2017 Trump tax cuts              |               ❌ BAD                | Majority of benefits go to corporations and the rich. [Visualization of TCJA](https://media.itep.org/cdn-cgi/image/format=webp,onerror=redirect/https://media.itep.org/Trump-Proposals-Cut-Taxes-for-Richest-5-Percent-Raise-Taxes-on-Other-Groups-768x842.png) |
-| Increase standard deduction             |               ✅ GOOD               | Offers modest tax relief for individuals and families.                                                                                                                                                                                                          |
-| Increase child tax credit               |               ✅ GOOD               | More money for families with children.                                                                                                                                                                                                                          |
-| Defense spending                        |               ❌ BAD                | Drains money from healthcare, education, and infrastructure.                                                                                                                                                                                                    |
-| Border wall & immigration restrictions  |               ❌ BAD                | Expensive, ineffective, and does nothing to reduce drugs coming thru, but helps                                                                                                                                                                                 |
-| No tax on overtime                      |               ✅ GOOD               | Could slightly increase take-home pay for hourly workers.                                                                                                                                                                                                       |
-| Senior bonus                            |               ✅ GOOD               | Helps fixed-income seniors; small cost, big impact.                                                                                                                                                                                                             |
-| No tax on car loan interest             |               ✅ GOOD               | Modest relief for working families with auto loans.                                                                                                                                                                                                             |
-| No tax on tips                          |               ✅ GOOD               | Benefits service workers directly (waiters, barbers, etc.).                                                                                                                                                                                                     |
-| Savings accounts for newborns           |               ✅ GOOD               | Encourages long-term planning, but small scale.                                                                                                                                                                                                                 |
-| Homeschooling/private school tax credit |               ❌ BAD                | Undermines public education. Mostly helps wealthy families.                                                                                                                                                                                                     |
-| Cuts to federal worker protections      |               ❌ BAD                | Weakens your job security if you're a federal employee or union member.                                                                                                                                                                                         |
-| New oil and gas production              |               ❌ BAD                | Could lower gas prices short-term, but hurts long-term sustainability and environment.                                                                                                                                                                          |
-| New taxes on colleges and universities  |               ❌ BAD                | Hurts affordability and access to higher education.                                                                                                                                                                                                             |
-| Spectrum auction                        |             ➖ NEUTRAL              | Harmless — generates revenue without affecting citizens.                                                                                                                                                                                                        |
-| Cuts to antipoverty food assistance     |               ❌ BAD                | Direct hit to low-income and vulnerable families.                                                                                                                                                                                                               |
-| Student loan changes                    |               ❌ BAD                | Undermines relief efforts. Increases burden on graduates.                                                                                                                                                                                                       |
-| Rescind climate change money            |               ❌ BAD                | Kills clean energy jobs and ignores climate resilience.                                                                                                                                                                                                         |
-| Cuts to Medicaid                        |               ❌ BAD                | Devastating for low-income families, disabled people, and seniors.                                                                                                                                                                                              |
+| **Policy**                             | **Good or Bad for Working Class?** | **Why it Matters**                                                                                                                                                     |
+| -------------------------------------- | :--------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Extend 2017 Trump tax cuts             |               ❌ BAD                | Benefits mostly corporations and top 5%. [ITEP visual](https://media.itep.org/Trump-Proposals-Cut-Taxes-for-Richest-5-Percent-Raise-Taxes-on-Other-Groups-768x842.png) |
+| Increase standard deduction            |               ✅ GOOD               | Modest tax relief for families and individuals.                                                                                                                        |
+| Increase child tax credit              |               ✅ GOOD               | Direct support for working families with kids.                                                                                                                         |
+| Defense spending                       |               ❌ BAD                | Pulls money from healthcare, education, and housing.                                                                                                                   |
+| Border wall & immigration restrictions |               ❌ BAD                | Ineffective, expensive, and humanitarian concerns.                                                                                                                     |
+| No tax on overtime                     |               ✅ GOOD               | Slight boost in take-home pay for hourly workers.                                                                                                                      |
+| Senior tax bonus                       |               ✅ GOOD               | Helps low-income seniors; low cost, high impact.                                                                                                                       |
+| No tax on car loan interest            |               ✅ GOOD               | Helps families with auto loans; mild relief.                                                                                                                           |
+| No tax on tips                         |               ✅ GOOD               | Big help for service workers (servers, barbers, etc.).                                                                                                                 |
+| Newborn savings accounts               |               ✅ GOOD               | Encourages future planning, but not a gamechanger.                                                                                                                     |
+| Private school tax credits             |               ❌ BAD                | Undermines public schools; favors wealthy parents.                                                                                                                     |
+| Cuts to federal worker protections     |               ❌ BAD                | Reduces union power & job stability for feds.                                                                                                                          |
+| New oil/gas production incentives      |               ❌ BAD                | Hurts climate policy; short-term energy gain.                                                                                                                          |
+| Taxes on colleges and universities     |               ❌ BAD                | Discourages access and affordability for students.                                                                                                                     |
+| Spectrum auction                       |             ➖ NEUTRAL              | Generates revenue without direct harm.                                                                                                                                 |
+| Food assistance cuts                   |               ❌ BAD                | Direct attack on low-income families.                                                                                                                                  |
+| Student loan policy rollback           |               ❌ BAD                | Makes debt heavier for students and grads.                                                                                                                             |
+| Ends climate resilience funding        |               ❌ BAD                | Slows down green jobs and infrastructure.                                                                                                                              |
+| Medicaid cuts                          |               ❌ BAD                | Devastating for seniors, low-income, disabled.                                                                                                                         |
+# 🇺🇸 OBBBA: Immigration Enforcement Breakdown
 
+The One Big Beautiful Bill, passed by Congress on **Thursday, July 3, 2025**, massively expands funding for immigration enforcement in line with Trump’s policy priorities.
 
+> 🧨 **Spoiler**: This bill shifts billions toward ICE and border militarization, while starving courts, asylum, and social services.
 
+---
+
+## 🗓️ Key Facts
+
+| Detail                | Info                                                                                                                                                                                                                                                |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Timeframe**         | Now through **September 2029**                                                                                                                                                                                                                      |
+| **Total Funding**     | 💵 Over **$100 billion**, maybe up to **$170B** depending on source  [How the GOP spending bill will fund immigration enforcement](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com) |
+| **ICE Budget Before** | ~$9B/year (https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                                                                                                                                                     |
+| **ICE Over-Spending** | $1B over budget pre-bill ()                                                                                                                                                                                                                         |
+
+---
+
+## 📊 What Gets Funded
+
+| **Category**                    | **Allocation** | **Purpose** |
+|--------------------------------|----------------|-------------|
+| 🧱 **Border Wall**             | ~$46.5B        | Cameras, lighting, surveillance, roads () |
+| 🛏️ **Detention Capacity**     | ~$45B          | Camps/beds up to ~116K detainees () |
+| 👮 **ICE Personnel & Tech**    | ~$29.9B        | Agents, equipment, transport () |
+| 🏢 **CBP Facilities**          | ~$5B           | Checkpoints, facility upgrades () |
+| 🚔 **Border Patrol Agents**    | ~$4.1B         | Hiring/training for patrol, marine agents () |
+| 💵 **Bonuses/Retention**       | ~$2B           | Incentives for agents/staff () |
+| ⚖️ **Immigration Courts**      | ~$3.3B         | Hires judges/support staff; capped at 800 judges by Nov 2028 () |
+
+---
+
+## 🗓️ Timeline of Rollout
+
+- **July 4, 2025**: Trump expected to sign the bill  [oai_citation:1‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)
+- **Nov 2028**: Immigration judge cap kicks in  [oai_citation:2‡aila.org](https://www.aila.org/featured-issue-immigration-detention-and-alternatives-to-detention?utm_source=chatgpt.com)
+- **2025–2029**: Funding can be front-loaded; not evenly distributed  [oai_citation:3‡americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025/?utm_source=chatgpt.com)
+
+---
+
+## 🚨 Key Impacts
+
+- **ICE becomes largest federal law enforcement agency**  [oai_citation:4‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)  
+- **Court backlogs worsen** due to lopsided funding  [oai_citation:5‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)  
+- **Militarized border infrastructure blooms** while humanitarian investment stagnates  [oai_citation:6‡ft.com](https://www.ft.com/content/e0e53112-dd23-4dec-9454-635ecf88d807?utm_source=chatgpt.com)  
+- **Local law enforcement pulled into federal operations** via new grants ()
+
+---
+
+## 🧠 Why This Matters
+
+This bill is less about border control and more about building a **national immigration enforcement machine**, with law enforcement stretched across federal, local, and state levels — while **ignoring due process, asylum, and social support systems**.
+
+---
+
+## 📚 Sources
+
+- Axios: “How the GOP spending bill will fund immigration enforcement”  [oai_citation:7‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)  
+- American Immigration Council press release “Senate Approves Unprecedented Spending for Mass Deportation”  [oai_citation:8‡americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025/?utm_source=chatgpt.com)  
+- Axios: “ICE’s cash crisis deepens amid immigration crackdown”  [oai_citation:9‡axios.com](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump?utm_source=chatgpt.com)  
+- American Immigration Council: Reconciliation bill fact sheet  [oai_citation:10‡americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/fact-sheet/house-reconciliation-bill-immigration-border-security/?utm_source=chatgpt.com)  
+- Reuters: Overview of immigration funding legacy ()  
+- Courthouse News: Coverage of psychological harms and bill specifics  [oai_citation:11‡boltsmag.org](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement/?utm_source=chatgpt.com)  
+- Bolts Magazine: Local enforcement funding analysis  [oai_citation:12‡boltsmag.org](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement/?utm_source=chatgpt.com)  
+- The Guardian & FT: Additional context on impact and reactions  [oai_citation:13‡theguardian.com](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill?utm_source=chatgpt.com)
 ## Trump's Tariff Blunder
 Trump is a known TACO which stands for 'Trump Always Chicken Out.' This is completely backed when, Trump says 2 weeks, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 
