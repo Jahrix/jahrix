@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-03T22:45:34.837-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-04T00:01:53.444-04:00"}
 ---
 
 ## Trump is A Liar
@@ -30,10 +30,10 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 | Increase child tax credit              |               ✅ GOOD               | Direct support for working families with kids.                                                                                                                         |
 | Defense spending                       |               ❌ BAD                | Pulls money from healthcare, education, and housing.                                                                                                                   |
 | Border wall & immigration restrictions |               ❌ BAD                | Ineffective, expensive, and humanitarian concerns.                                                                                                                     |
-| No tax on overtime                     |               ✅ GOOD               | Slight boost in take-home pay for hourly workers.                                                                                                                      |
+| No tax on overtime                     |               ✅ GOOD               | Slight boost in take-home pay for hourly workers. Deducted up to $25K (Exp. 12/31/28)                                                                                  |
 | Senior tax bonus                       |               ✅ GOOD               | Helps low-income seniors; low cost, high impact.                                                                                                                       |
 | No tax on car loan interest            |               ✅ GOOD               | Helps families with auto loans; mild relief.                                                                                                                           |
-| No tax on tips                         |               ✅ GOOD               | Big help for service workers (servers, barbers, etc.).                                                                                                                 |
+| No tax on tips                         |               ✅ GOOD               | Big help for service workers (servers, barbers, etc.). Deducted up to $25K (Exp. 12/31/28)                                                                             |
 | Newborn savings accounts               |               ✅ GOOD               | Encourages future planning, but not a gamechanger.                                                                                                                     |
 | Private school tax credits             |               ❌ BAD                | Undermines public schools; favors wealthy parents.                                                                                                                     |
 | Cuts to federal worker protections     |               ❌ BAD                | Reduces union power & job stability for feds.                                                                                                                          |
@@ -43,12 +43,8 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 | Food assistance cuts                   |               ❌ BAD                | Direct attack on low-income families.                                                                                                                                  |
 | Student loan policy rollback           |               ❌ BAD                | Makes debt heavier for students and grads.                                                                                                                             |
 | Ends climate resilience funding        |               ❌ BAD                | Slows down green jobs and infrastructure.                                                                                                                              |
-| Medicaid cuts                          |               ❌ BAD                | Devastating for seniors, low-income, disabled.                                                                                                                         |
-### 🇺🇸 OBBBA: Immigration Enforcement Breakdown
-
-The One Big Beautiful Bill, passed by Congress on **Thursday, July 3, 2025**, massively expands funding for immigration enforcement in line with Trump’s policy priorities.
-
-> 🧨 **Spoiler**: This bill shifts billions toward ICE and border militarization, while starving courts, asylum, and social services.
+| Medicaid cuts                          |               ❌ BAD                | Devastating for seniors, low-income, disabled. Medicaid requirements take effect 1/1/27                                                                                |
+### 🇺🇸 OBBB: Immigration Enforcement Breakdown
 
 ---
 
