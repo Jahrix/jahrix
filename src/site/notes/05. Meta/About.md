@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-06-28T21:37:26.970-04:00"}
+{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-07-04T03:59:58.309-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
-<p><span>🕒 <strong>Updated:</strong> 2025-07-04 12:01 AM</span></p>
+<p><span>🕒 <strong>Updated:</strong> 2025-07-04 04:01 AM</span></p>
 
 Welcome! You’ve landed on the hub for all the topics, sources, and thought trails I'm diving into.
 
@@ -15,7 +15,6 @@ This vault is curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.yout
 
 > Here's what I'm working on **right now** or planning to cover soon:
 
-- 🧱 **Zohran Mamdani Win Causes Meltdown in MAGA Spheres**  
 - 🧠 **Media Bias & Political Strategy**  
   - Trump’s rhetoric vs reality  
   - Democrat messaging breakdowns  
@@ -43,7 +42,6 @@ A centralized breakdown of key folders in my Obsidian vault. This keeps everythi
 | [[03. Research Vault/01. Research Intro/Research Introduction\| Research Vault]]/    | Deep dives on specific policy areas or political themes. This is where the receipts, citations, and long-form analysis live.  |
 | 📁 [[02. The Jahrix Show/00. Introduction/Jahrix Show Introduction\| Jahrix Show]]/ | Dedicated space for episodes, video outlines, and script notes for the show.                                                  |
 | `📁 Clips/`                                    | Timestamped segments pulled from streams, debates, or long-form content — useful for editing or Shorts planning. (TBA system) |
-| `📁 [[]]/`                                     | Argument trees, breakdowns of opposing views, and prepped counterpoints. Use for debates, panel shows, or Twitter clapbacks.  |
 
 ---
 
