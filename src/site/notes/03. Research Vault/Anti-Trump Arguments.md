@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-03T19:38:03.812-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-03T22:45:34.837-04:00"}
 ---
 
 ## Trump is A Liar
@@ -21,7 +21,7 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 
 ---
 
-## 💥 How Trump’s OBBB Impacts Working-Class Americans
+### 💥 How Trump’s OBBB Impacts Working-Class Americans
 
 | **Policy**                             | **Good or Bad for Working Class?** | **Why it Matters**                                                                                                                                                     |
 | -------------------------------------- | :--------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 | Student loan policy rollback           |               ❌ BAD                | Makes debt heavier for students and grads.                                                                                                                             |
 | Ends climate resilience funding        |               ❌ BAD                | Slows down green jobs and infrastructure.                                                                                                                              |
 | Medicaid cuts                          |               ❌ BAD                | Devastating for seniors, low-income, disabled.                                                                                                                         |
-# 🇺🇸 OBBBA: Immigration Enforcement Breakdown
+### 🇺🇸 OBBBA: Immigration Enforcement Breakdown
 
 The One Big Beautiful Bill, passed by Congress on **Thursday, July 3, 2025**, massively expands funding for immigration enforcement in line with Trump’s policy priorities.
 
@@ -52,63 +52,41 @@ The One Big Beautiful Bill, passed by Congress on **Thursday, July 3, 2025**, ma
 
 ---
 
-## 🗓️ Key Facts
+### 🗓️ Key Facts
 
-| Detail                | Info                                                                                                                                                                                                                                                |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Timeframe**         | Now through **September 2029**                                                                                                                                                                                                                      |
-| **Total Funding**     | 💵 Over **$100 billion**, maybe up to **$170B** depending on source  [How the GOP spending bill will fund immigration enforcement](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com) |
-| **ICE Budget Before** | ~$9B/year (https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                                                                                                                                                     |
-| **ICE Over-Spending** | $1B over budget pre-bill ()                                                                                                                                                                                                                         |
-
----
-
-## 📊 What Gets Funded
-
-| **Category**                    | **Allocation** | **Purpose** |
-|--------------------------------|----------------|-------------|
-| 🧱 **Border Wall**             | ~$46.5B        | Cameras, lighting, surveillance, roads () |
-| 🛏️ **Detention Capacity**     | ~$45B          | Camps/beds up to ~116K detainees () |
-| 👮 **ICE Personnel & Tech**    | ~$29.9B        | Agents, equipment, transport () |
-| 🏢 **CBP Facilities**          | ~$5B           | Checkpoints, facility upgrades () |
-| 🚔 **Border Patrol Agents**    | ~$4.1B         | Hiring/training for patrol, marine agents () |
-| 💵 **Bonuses/Retention**       | ~$2B           | Incentives for agents/staff () |
-| ⚖️ **Immigration Courts**      | ~$3.3B         | Hires judges/support staff; capped at 800 judges by Nov 2028 () |
+| Detail                | Info                                                                                                                                                                             |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Timeframe**         | Now through **September 2029**                                                                                                                                                   |
+| **Total Funding**     | 💵 Over **$133 billion** [How the GOP spending bill will fund immigration enforcement](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill) |
+| **ICE Budget Before** | [~$9B/year](https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                                                                                 |
+| **ICE Over-Spending** | [$1B over budget pre-bill](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump                                                                          |
 
 ---
 
-## 🗓️ Timeline of Rollout
+### 📊 What Gets Funded
+Source:
 
-- **July 4, 2025**: Trump expected to sign the bill  [oai_citation:1‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)
-- **Nov 2028**: Immigration judge cap kicks in  [oai_citation:2‡aila.org](https://www.aila.org/featured-issue-immigration-detention-and-alternatives-to-detention?utm_source=chatgpt.com)
-- **2025–2029**: Funding can be front-loaded; not evenly distributed  [oai_citation:3‡americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025/?utm_source=chatgpt.com)
-
----
-
-## 🚨 Key Impacts
-
-- **ICE becomes largest federal law enforcement agency**  [oai_citation:4‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)  
-- **Court backlogs worsen** due to lopsided funding  [oai_citation:5‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)  
-- **Militarized border infrastructure blooms** while humanitarian investment stagnates  [oai_citation:6‡ft.com](https://www.ft.com/content/e0e53112-dd23-4dec-9454-635ecf88d807?utm_source=chatgpt.com)  
-- **Local law enforcement pulled into federal operations** via new grants ()
-
----
-
-## 🧠 Why This Matters
-
-This bill is less about border control and more about building a **national immigration enforcement machine**, with law enforcement stretched across federal, local, and state levels — while **ignoring due process, asylum, and social support systems**.
+| **Category**                | **Allocation** | **Purpose**                                                  |
+| --------------------------- | -------------- | ------------------------------------------------------------ |
+| 🧱 **Border Wall**          | ~$46.5B        | Cameras, lighting, surveillance, roads                       |
+| 🛏️ **Detention Capacity**  | ~$45B          | Camps/beds up to ~116K detainees                             |
+| 👮 **ICE Personnel & Tech** | ~$29.9B        | Agents, equipment, transport                                 |
+| 🏢 **CBP Facilities**       | ~$5B           | Checkpoints, facility upgrades                               |
+| 🚔 **Border Patrol Agents** | ~$4.1B         | Hiring/training for patrol, marine agents                    |
+| 💵 **Bonuses/Retention**    | ~$2B           | Incentives for agents/staff                                  |
+| ⚖️ **Immigration Courts**   | ~$3.3B         | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ---
 
 ## 📚 Sources
 
-- Axios: “How the GOP spending bill will fund immigration enforcement”  [oai_citation:7‡axios.com](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill?utm_source=chatgpt.com)  
-- American Immigration Council press release “Senate Approves Unprecedented Spending for Mass Deportation”  [oai_citation:8‡americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025/?utm_source=chatgpt.com)  
-- Axios: “ICE’s cash crisis deepens amid immigration crackdown”  [oai_citation:9‡axios.com](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump?utm_source=chatgpt.com)  
-- American Immigration Council: Reconciliation bill fact sheet  [oai_citation:10‡americanimmigrationcouncil.org](https://www.americanimmigrationcouncil.org/fact-sheet/house-reconciliation-bill-immigration-border-security/?utm_source=chatgpt.com)  
-- Reuters: Overview of immigration funding legacy ()  
-- Courthouse News: Coverage of psychological harms and bill specifics  [oai_citation:11‡boltsmag.org](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement/?utm_source=chatgpt.com)  
-- Bolts Magazine: Local enforcement funding analysis  [oai_citation:12‡boltsmag.org](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement/?utm_source=chatgpt.com)  
-- The Guardian & FT: Additional context on impact and reactions  [oai_citation:13‡theguardian.com](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill?utm_source=chatgpt.com)
+- Axios: [“How the GOP spending bill will fund immigration enforcement”](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill)  
+- American Immigration Council press release [“Senate Approves Unprecedented Spending for Mass Deportation”](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025)  
+- Axios:[“ICE’s cash crisis deepens amid immigration crackdown”](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)  
+- American Immigration Council: [Reconciliation bill fact sheet](https://www.americanimmigrationcouncil.org/fact-sheet/house-reconciliation-bill-immigration-border-security)
+- Courthouse News: [Coverage of psychological harms and bill specifics](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)  
+- Bolts Magazine: [Local enforcement funding analysis](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)  
+- The Guardian: [How Trump’s bill will supercharge mass deportations by funneling $170bn to Ice](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill)
+--- 
 ## Trump's Tariff Blunder
 Trump is a known TACO which stands for 'Trump Always Chicken Out.' This is completely backed when, Trump says 2 weeks, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 
