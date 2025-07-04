@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-04T00:01:53.444-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-04T02:10:30.438-04:00"}
 ---
 
 ## Trump is A Liar
@@ -47,7 +47,6 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 ### 🇺🇸 OBBB: Immigration Enforcement Breakdown
 
 ---
-
 ### 🗓️ Key Facts
 
 | Detail                | Info                                                                                                                                                                             |
@@ -55,12 +54,11 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 | **Timeframe**         | Now through **September 2029**                                                                                                                                                   |
 | **Total Funding**     | 💵 Over **$133 billion** [How the GOP spending bill will fund immigration enforcement](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill) |
 | **ICE Budget Before** | [~$9B/year](https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                                                                                 |
-| **ICE Over-Spending** | [$1B over budget pre-bill](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump                                                                          |
+| **ICE Over-Spending** | [$1B over budget pre-bill](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)                                                                         |
+|                       |                                                                                                                                                                                  |
 
 ---
-
 ### 📊 What Gets Funded
-Source:
 
 | **Category**                | **Allocation** | **Purpose**                                                  |
 | --------------------------- | -------------- | ------------------------------------------------------------ |
@@ -73,7 +71,6 @@ Source:
 | ⚖️ **Immigration Courts**   | ~$3.3B         | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ---
-
 ## 📚 Sources
 
 - Axios: [“How the GOP spending bill will fund immigration enforcement”](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill)  
