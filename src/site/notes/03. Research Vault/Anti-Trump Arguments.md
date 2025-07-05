@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-04T02:10:30.438-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-05T15:47:15.659-04:00"}
 ---
 
 ## Trump is A Liar
@@ -43,7 +43,7 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 | Food assistance cuts                   |               ❌ BAD                | Direct attack on low-income families.                                                                                                                                  |
 | Student loan policy rollback           |               ❌ BAD                | Makes debt heavier for students and grads.                                                                                                                             |
 | Ends climate resilience funding        |               ❌ BAD                | Slows down green jobs and infrastructure.                                                                                                                              |
-| Medicaid cuts                          |               ❌ BAD                | Devastating for seniors, low-income, disabled. Medicaid requirements take effect 1/1/27                                                                                |
+| Medicaid cuts                          |               ❌ BAD                | Devastating for seniors, low-income, disabled. Medicaid cuts take effect 1/1/27                                                                                        |
 ### 🇺🇸 OBBB: Immigration Enforcement Breakdown
 
 ---
