@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:41:34.029-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:45:32.142-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**
@@ -22,20 +22,20 @@
 ## 📘 **What Biden & Kamala Have Actually Delivered**
 
 ### ✔️ **Inflation Reduction Act**  
-  - Caps insulin at **$35/month** for Medicare seniors  
-  - Enables Medicare negotiation of drug prices  
-  - Supports clean energy and reduced deficit
+- Caps insulin at **$35/month** for Medicare seniors  
+- Enables Medicare negotiation of drug prices  
+- Supports clean energy and reduced deficit
 ###  ✔️ **Infrastructure Investment & Jobs Act (~$1.2 T)**  
-  - Roads, bridges, broadband, clean water, lead pipe replacement
+- Roads, bridges, broadband, clean water, lead pipe replacement
 ### ✔️ **Healthcare expansions**  
-  - Postpartum Medicaid coverage extended to 12 months
-  - More states joining Medicaid expansion
+- Postpartum Medicaid coverage extended to 12 months
+- More states joining Medicaid expansion
 ### ✔️ **Gun safety reform**  
-  - First federal law in 30 years (*Bipartisan Safer Communities Act*)
-  - Strengthened background checks & red-flag laws
+- First federal law in 30 years (*Bipartisan Safer Communities Act*)
+- Strengthened background checks & red-flag laws
 ### ✔️ **Diplomacy forward**  
-  - Rebuilt global alliances  
-  - United 50+ countries behind Ukraine — no U.S. boots
+- Rebuilt global alliances  
+- United 50+ countries behind Ukraine — no U.S. boots
 ### 🗳️ **Kamala Harris**  
 - Record for most VP tie-breaking Senate votes
  - Crucial in passing closely divided legislation
