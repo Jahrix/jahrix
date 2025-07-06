@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:46:20.108-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:52:43.497-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**
@@ -69,7 +69,7 @@
 ## Trump's OBBB (One Big Beautiful Bill) 
 ### 🇺🇸 One Big Beautiful Bill (OBBBA) – Full Analysis
 
-The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025**, includes an unprecedented expansion of immigration enforcement aligned with Trump’s second-term policy agenda.
+The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th, 2025**, includes an unprecedented expansion of immigration enforcement aligned with Trump’s second-term policy agenda.
 
 > 🧨 **Spoiler**: The top-line tax breaks sound nice. But when you dig deeper, this bill mostly **benefits the ultra-wealthy and corporations** — while making life harder for working Americans.
 
@@ -127,7 +127,7 @@ The **One Big Beautiful Bill**, passed by Congress on **Thursday, July 3rd, 2025
 | ⚖️ **Immigration Courts**   | ~$3.3B         | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ---
-## 📚 Sources
+### 📚 Sources
 
 - Axios: [“How the GOP spending bill will fund immigration enforcement”](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill)  
 - American Immigration Council press release [“Senate Approves Unprecedented Spending for Mass Deportation”](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025)  

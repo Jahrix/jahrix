@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-07-04T03:59:58.309-04:00"}
+{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-07-06T06:56:01.084-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
-<p><span>🕒 <strong>Updated:</strong> 2025-07-06 06:46 AM</span></p>
 
 Welcome! You’ve landed on the hub for all the topics, sources, and thought trails I'm diving into.
 
@@ -47,9 +46,8 @@ A centralized breakdown of key folders in my Obsidian vault. This keeps everythi
 
 ## 🧠 Quote of the Week
 
-> “Never let your sense of morals prevent you from doing what is right.”
-> — Isaac Asimov
-
+> “It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out. Yet I keep them, because in spite of everything, I still believe that people are really good at heart.”  
+― Anne Frank
 ---
 
 ## 🙏 Thanks for stopping by
