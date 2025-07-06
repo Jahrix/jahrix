@@ -1,15 +1,71 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-05T15:47:15.659-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:39:18.328-04:00"}
 ---
 
-## Trump is A Liar
+### 🧾 **Truth-Test: Trump vs. Biden**
 
->If you’re betting on Trump to tell the truth, odds are 3 to 1 you’ll be disappointed. **[PolitiFact](https://www.politifact.com/)’s data shows that about [76% of his claims are misleading or outright false](https://www.politifact.com/personalities/donald-trump/)**. Meanwhile, [Joe Biden has a 59%/41%](https://www.politifact.com/personalities/joe-biden/) Truth to Lie score.
+> “If you’re betting on Trump to tell the truth, odds are 3 to 1 you’ll be disappointed.”  
 
-## Trump is Lazy
+> **PolitiFact** showed **76%** of Trump’s statements are misleading or false.  
+> For Biden, **59%** are rated accurate vs. **41%** false/misleading.  
 
-> Donald Trump has offered little in the way of substantive policy, yet he’s already spent **38 out of 162 days—nearly 23.5% of his presidency—on the golf course**, according to [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/). These trips have cost American taxpayers **an estimated $51.8 million**.
 
+> — Source: [What PolitiFact learned in 1,000 fact-checks of Donald Trump](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-in-1000-fact-checks-of-don/)
+
+---
+### 🏌️ **Trump’s Golf Habit**
+
+> As of 2025-07-06, Trump has spent **38 out of his first 168 days (~22.6%)** playing golf.  That’s **$53.2 million** in taxpayer costs.  
+
+> — Source: [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/)
+---
+## 📘 **What Biden & Kamala Have Actually Delivered**
+
+### ✔️ **Inflation Reduction Act**  
+  - Caps insulin at **$35/month** for Medicare seniors  
+  - Enables Medicare negotiation of drug prices  
+  - Supports clean energy and reduced deficit
+###  ✔️ **Infrastructure Investment & Jobs Act (~$1.2 T)**  
+  - Roads, bridges, broadband, clean water, lead pipe replacement
+### ✔️ **Healthcare expansions**  
+  - Postpartum Medicaid coverage extended to 12 months
+  - More states joining Medicaid expansion
+### ✔️ **Gun safety reform**  
+  - First federal law in 30 years (*Bipartisan Safer Communities Act*)
+  - Strengthened background checks & red-flag laws
+### ✔️ **Diplomacy forward**  
+  - Rebuilt global alliances  
+  - United 50+ countries behind Ukraine — no U.S. boots
+### 🗳️ **Kamala Harris**  
+  - Record for most VP tie-breaking Senate votes  
+  - Crucial in passing closely divided legislation
+---
+### 🛢️ **“Gas Prices Are Biden’s Fault”**
+- Global prices drive U.S. gas — not presidential tweets.  
+- 2022 spike tied to **Russia-Ukraine war** and oil sanctions.  
+- Biden released reserves; domestic production hit record highs.
+---
+### ⚔️ **“Trump Didn’t Start Any Wars” — Not Exactly**
+- U.S. troops remained active in Afghanistan, Iraq, Syria, Yemen, Niger.  
+- Drone strikes under Trump killed civilians (e.g. Iran’s Soleimani).
+- Trump tried — and failed — to withdraw from Afghanistan; Biden executed the final pullout.
+---
+### 🌐 **“Open Border?” Nope**
+- Biden continued Trump’s **Title 42 expulsions** for years.
+- Deported **2.3 million+ people** — more than Trump’s first three years.  
+- Increased surveillance and personnel.
+- Migration spike tied to global factors, not policy.
+---
+### 🗳️ **“Why Didn’t Kamala Have a Primary?”**
+- Primary ran **Jan 23 – Jun 8, 2024**  
+- Biden dropped **Jul 21**, after primary ended  
+- Harris nominated via **roll-call convention**, unopposed, with 4.5K+ delegate votes
+---
+### 🗣️ **“Kamala Lost in 2020, Why Is She Front‑Runner?”**
+- Dropped out **Dec 2019**, pre-primary  
+- Became VP — second in line — and **no challenger** emerged  
+- Similar to historical norms (*Gore*, *LBJ*)
+---
 ## Trump's OBBB (One Big Beautiful Bill) 
 ### 🇺🇸 One Big Beautiful Bill (OBBBA) – Full Analysis
 
