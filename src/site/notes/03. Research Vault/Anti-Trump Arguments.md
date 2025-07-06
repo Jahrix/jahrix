@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:45:32.142-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:46:20.108-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**
@@ -38,7 +38,7 @@
 - United 50+ countries behind Ukraine — no U.S. boots
 ### 🗳️ **Kamala Harris**  
 - Record for most VP tie-breaking Senate votes
- - Crucial in passing closely divided legislation
+- Crucial in passing closely divided legislation
 ---
 ### 🛢️ **“Gas Prices Are Biden’s Fault”**
 - Global prices drive U.S. gas — not presidential tweets.  
