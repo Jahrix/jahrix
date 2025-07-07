@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T06:52:43.497-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T20:32:08.495-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**
@@ -111,7 +111,6 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 | **Total Funding**     | 💵 Over **$133 billion** [How the GOP spending bill will fund immigration enforcement](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill) |
 | **ICE Budget Before** | [~$9B/year](https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                                                                                 |
 | **ICE Over-Spending** | [$1B over budget pre-bill](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)                                                                         |
-|                       |                                                                                                                                                                                  |
 
 ---
 ### 📊 What Gets Funded
@@ -131,11 +130,11 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 
 - Axios: [“How the GOP spending bill will fund immigration enforcement”](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill)  
 - American Immigration Council press release [“Senate Approves Unprecedented Spending for Mass Deportation”](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025)  
-- Axios:[“ICE’s cash crisis deepens amid immigration crackdown”](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)  
+- Axios:[“ICE’s cash crisis deepens amid immigration crackdown”](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)
 - American Immigration Council: [Reconciliation bill fact sheet](https://www.americanimmigrationcouncil.org/fact-sheet/house-reconciliation-bill-immigration-border-security)
 - Courthouse News: [Coverage of psychological harms and bill specifics](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)  
 - Bolts Magazine: [Local enforcement funding analysis](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)  
 - The Guardian: [How Trump’s bill will supercharge mass deportations by funneling $170bn to Ice](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill)
 --- 
 ## Trump's Tariff Blunder
-Trump is a known TACO which stands for 'Trump Always Chicken Out.' This is completely backed when, Trump says 2 weeks, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 
+Trump is a known **TACO** which stands for '**Trump Always Chicken Out.'** This is completely backed when, Trump says **2 week**s, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 

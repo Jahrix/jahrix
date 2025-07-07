@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-the-jahrix-show/00-introduction/jahrix-show-introduction/","created":"2025-06-27T23:08:02.111-04:00","updated":"2025-07-04T04:02:58.021-04:00"}
+{"dg-publish":true,"permalink":"/02-the-jahrix-show/00-introduction/jahrix-show-introduction/","created":"2025-06-27T23:08:02.111-04:00","updated":"2025-07-06T21:22:03.998-04:00"}
 ---
 
 # 🎙️ The Jahrix Show
@@ -11,9 +11,9 @@
 
 ## 📌 CURRENT PROJECTS
 
-- 🎥 **Next Video:** ***[[02. The Jahrix Show/01. Episodes/2025-07-04\|Trump's BBB Backfires Instantly]]***  
-- 📅 Scheduled for: `2025-07-04`  
--   🎬 Status: `[☐ Idea | ☑️ Filmed | ☐ Edited]`
+- 🎥 **Next Video:** ***[[02. The Jahrix Show/01. Episodes/2025-07-06\|ONCE-IN-A-CENTURY TEXAS FLOOD EXPOSES TRUMP’S CUTS]]***  
+- 📅 Scheduled for: `2025-07-06`  
+-   🎬 Status: `[☐ Idea | ☐ Filmed | ☐ Edited | ☑️ Published]`
 ---
 - 🔥 **Next Short:**  
   🧵 Topic: ***[[TBD\|TBD]]***  
