@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T20:32:08.495-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T22:03:31.825-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**
@@ -15,7 +15,7 @@
 ---
 ### 🏌️ **Trump’s Golf Habit**
 
-> As of 2025-07-06, Trump has spent **38 out of his first 168 days (~22.6%)** playing golf.  That’s **$53.2 million** in taxpayer costs.  
+> As of 2025-07-06, Trump has spent 40 out of his first 169 days (~23.7%)** playing golf.  That’s **$56 million** in taxpayer costs.  
 
 > — Source: [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/)
 ---
