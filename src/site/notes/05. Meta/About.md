@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.000-04:00","updated":"2025-07-06T06:56:01.000-04:00"}
+{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-07-06T06:56:01.084-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive

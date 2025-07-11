@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/jeffrey-epstein/","tags":["epstein","research"],"created":"2025-07-08T15:33:23.000-04:00","updated":"2025-07-09T14:22:21.000-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/jeffrey-epstein/","tags":["epstein","research"],"created":"2025-07-08T15:33:23.795-04:00","updated":"2025-07-09T14:22:21.106-04:00"}
 ---
 
 ## Introduction

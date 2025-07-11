@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/transgender-issues-and-debunks/","created":"2025-06-27T00:02:40.000-04:00","updated":"2025-06-29T03:33:00.000-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/transgender-issues-and-debunks/","created":"2025-06-27T00:02:40.475-04:00","updated":"2025-06-29T03:33:00.357-04:00"}
 ---
 
 
