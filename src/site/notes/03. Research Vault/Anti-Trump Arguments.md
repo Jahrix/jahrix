@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T22:03:31.825-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.000-04:00","updated":"2025-07-06T22:03:31.000-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**

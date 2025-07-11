@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/01-research-intro/research-introduction/","created":"2025-06-28T00:45:24.136-04:00","updated":"2025-06-28T21:27:09.867-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/01-research-intro/research-introduction/","created":"2025-06-28T00:45:24.000-04:00","updated":"2025-06-28T21:27:09.000-04:00"}
 ---
 
 # 📚 Research Vault – Intro

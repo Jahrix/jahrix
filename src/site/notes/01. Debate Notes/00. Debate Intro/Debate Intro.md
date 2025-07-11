@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-debate-notes/00-debate-intro/debate-intro/","created":"2025-06-28T21:23:11.756-04:00","updated":"2025-06-28T21:26:42.021-04:00"}
+{"dg-publish":true,"permalink":"/01-debate-notes/00-debate-intro/debate-intro/","created":"2025-06-28T21:23:11.000-04:00","updated":"2025-06-28T21:26:42.000-04:00"}
 ---
 
 # 🗣️ Debate Notes – Master Thread

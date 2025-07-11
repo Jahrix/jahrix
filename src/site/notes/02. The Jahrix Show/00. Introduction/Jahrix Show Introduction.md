@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-the-jahrix-show/00-introduction/jahrix-show-introduction/","created":"2025-06-27T23:08:02.111-04:00","updated":"2025-07-06T21:22:03.998-04:00"}
+{"dg-publish":true,"permalink":"/02-the-jahrix-show/00-introduction/jahrix-show-introduction/","created":"2025-06-27T23:08:02.000-04:00","updated":"2025-07-06T21:22:03.000-04:00"}
 ---
 
 # 🎙️ The Jahrix Show
