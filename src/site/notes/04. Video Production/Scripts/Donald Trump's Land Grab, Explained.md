@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-video-production/scripts/donald-trump-s-land-grab-explained/","tags":["draft"],"created":"2025-01-12T16:05:05.813-05:00","updated":"2025-06-28T01:02:11.224-04:00"}
+{"dg-publish":true,"permalink":"/04-video-production/scripts/donald-trump-s-land-grab-explained/","tags":["draft"],"created":"2025-01-12T16:05:05.813-05:00","updated":"2025-07-19T22:04:06.712-04:00"}
 ---
 
-
+#draft 
 # Introduction
 
 [b-roll of Trump saying he wants Greenland]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-06T22:03:31.825-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/anti-trump-arguments/","created":"2025-06-27T00:05:00.604-04:00","updated":"2025-07-17T15:04:23.020-04:00"}
 ---
 
 ### 🧾 **Truth-Test: Trump vs. Biden**
@@ -137,4 +137,11 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 - The Guardian: [How Trump’s bill will supercharge mass deportations by funneling $170bn to Ice](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill)
 --- 
 ## Trump's Tariff Blunder
-Trump is a known **TACO** which stands for '**Trump Always Chicken Out.'** This is completely backed when, Trump says **2 week**s, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 
+Trump is a known **TACO** which stands for '**Trump Always Chicken Out.'** This is completely backed when, Trump says **2 weeks**, whether it comes to his 'healthcare plan, infrastructure plan and potential TikTok divestment. 
+
+[Trump's Tariffs are a disaster for the US economy, as inflation has risen 0.3 from 2.4% in May to 2.7% in the newest Bureau of Labor Statistics research.](https://www.bls.gov/cpi/)
+
+Donald Trump has used these tariffs as threats for political pressure such as to free political allies such as [Jair Bolsonaro, who is currently on trial on charges of trying to overturn the 2022 Brazilian election,](https://www.cbsnews.com/news/brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/https://www.cbsnews.com/news/brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/) [sending out a tariff letter and saying Brazil's tariff rate is now 50% if they do not stop this 'witch hunt' of Bolsonaro](https://twitter.com/RapidResponse47/status/1943043154946457812/photo/1)
+
+[Trump has also threatened Canada with tariffs of 35% if they can't stop and i'm not joking](https://twitter.com/RapidResponse47/status/1943475206049435931/photo/1) [119lbs/53kgs of Fent coming across the border from Canada's border with the US from 2022-2025. ](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics)
+

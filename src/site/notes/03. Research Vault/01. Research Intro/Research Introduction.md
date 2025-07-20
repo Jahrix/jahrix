@@ -15,4 +15,4 @@ This section contains my long-form research and reference material for arguments
 ## 🗂️ Topics
 
 - [[03. Research Vault/Anti-Trump Arguments\|Anti-Trump Arguments]]
-- [[03. Research Vault/Transgender Issues & Debunks\|Transgender Issues & Debunks]]
+- [[Transgender Issues & Debunks\|Transgender Issues & Debunks]]
