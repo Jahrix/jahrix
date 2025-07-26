@@ -1,59 +1,72 @@
 ---
-{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-07-19T23:07:15.615-04:00"}
+{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-07-25T22:22:28.051-04:00"}
 ---
 
-# 👋 Welcome to Jahmeer Jones’ Research Archive
+# # 👋 Welcome to Jahmeer Jones’ Research Archive
 
-Welcome! You’ve landed on the hub for all the topics, sources, and thought trails I'm diving into.
+Welcome to my personal knowledge vault. This is where I track, build, and refine every topic I’m exploring — from political strategy to cultural commentary.
 
-This vault is curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.youtube.com/@JahrixYT) — and it serves as the **central brain** for research I use in debates, streams, and long-form content. Everything in here is built for clarity, fact-checking, and long-term reference.
+Curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.youtube.com/@JahrixYT) — this space serves as the **central brain** behind my debates, streams, and long-form video work. It’s designed for clarity, receipts, and real-time referencing.
 
 ---
 
-## 🔍 Current Research Topics
+## 🔍 Currently Investigating
 
-> Here's what I'm working on **right now** or planning to cover soon:
+Here’s what’s on my desk — topics I’m actively researching, scripting, or prepping content around:
 
-- 🧠 **Media Bias & Political Strategy**  
-  - Trump’s rhetoric vs reality  
+- 🧠 **Media Manipulation & Narrative Warfare**  
+  - Trump’s rhetoric vs policy reality  
   - Democrat messaging breakdowns  
-  - How narratives shift online
+  - Algorithmic influence on political perception  
+
+- 💸 **Economic Fallout & Culture Wars**  
+  - DEI backlash and political weaponization  
+  - Approval rating trends across administrations  
+
+- 🔍 **Epstein Files**  
+  - Timeline of events  
+  - Media silence & reaction patterns  
+  - Legal/political fallout implications  
+
 ---
 
 ## 🎥 How I Use This Archive
 
-If you're watching my streams or YouTube videos, you'll see me reference these notes in real time. Here's how this archive is used:
+This isn’t just a notes app — it’s the engine behind the content.
 
-- **Live debates or panels**: Quick lookup, quote pulling, receipts 💥  
-- **Script prep**: Outlining arguments, pulling stats, sources  
-- **Personal tracking**: Ongoing questions, contradictions, fact audits
+- **💬 Live debates & panels**: Quick stat pulls, sourcing, live corrections  
+- **📜 Script development**: Structured arguments, receipts, sources, punchlines  
+- **📚 Deep dives**: Tracking contradictions, policy shifts, & media bias  
+- **🧠 Brain dump**: Personal insights, ongoing questions, rough takes  
 
-You’re welcome to peek inside and see what I’m cooking. If you find a broken source or have better data, **DM me on [Instagram](https://www.instagram.com/ineireti/)** — I’ll credit you.
+I reference this in real time during videos and streams. Found a mistake or have stronger data? DM me [on Instagram](https://www.instagram.com/ineireti/) — I’ll credit you 🔍
 
 ---
 
 ## 🗂️ Archive Structure (Quick Guide)
 
-A centralized breakdown of key folders in my Obsidian vault. This keeps everything organized for The Jahrix Show and beyond.
+A snapshot of how this vault is organized:
 
-| 📁 Section                                     | 📄 Description                                                                                                                |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [[03. Research Vault/01. Research Intro/Research Introduction\| Research Vault]]/    | Deep dives on specific policy areas or political themes. This is where the receipts, citations, and long-form analysis live.  |
-| 📁 [[02. The Jahrix Show/00. Introduction/Jahrix Show Introduction\| Jahrix Show]]/ | Dedicated space for episodes, video outlines, and script notes for the show.                                                  |
-| `📁 Clips/`                                    | Timestamped segments pulled from streams, debates, or long-form content — useful for editing or Shorts planning. (TBA system) |
+| 📁 Folder                                    | 🗒️ Description                                                                                                   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [[03. Research Vault/01. Research Intro/Research Introduction\| Research Vault]]/  | Long-form research, citations, case studies, and topic-specific deep dives.                                     |
+| 📁 [[02. The Jahrix Show/00. Introduction/Jahrix Show Introduction\| Jahrix Show]]/| Episode outlines, video ideas, script drafts, and production notes.                                             |
+| 📁 `Clips/`                                  | Timestamped segments from content — useful for Shorts, edits, and receipts. (Clipping system in progress 🛠️)    |
 
 ---
 
 ## 🧠 Quote of the Week
 
-> “It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out. Yet I keep them, because in spite of everything, I still believe that people are really good at heart.”  
-― Anne Frank
+> “It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out.  
+> Yet I keep them, because in spite of everything, I still believe that people are really good at heart.”  
+> — *Anne Frank*
+
 ---
 
-## 🙏 Thanks for stopping by
+## 🙏 Thanks for Stopping By
 
-This archive isn’t polished — it's **living and growing**, like my arguments. If you’ve made it this far, thank you for being curious.
+This isn’t a final product — it’s a **living archive** of how I think, adapt, and respond to the moment.  
 
-Feel free to adapt, borrow, remix — just give credit where it’s due.
+If you’re digging through, remix whatever you want — just give credit where it’s due.
 
 — *Jahmeer*
