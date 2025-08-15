@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/subjects/people/trump/trump-failed-america/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-08-13T14:45:36.426-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/subjects/people/trump/trump-failed-america/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-08-15T17:45:06.533-04:00"}
 ---
 
 Trump rode back into the White House on promises of "winning bigly," & "America is BACK," but by mid-2025, it's clear he's fumbling everything. Inflation's ticking up thanks to his tariff wars, global alliances are crumbling, and his domestic policies are hitting the working class hardest.
@@ -58,7 +58,7 @@ Here's the expanded lowdown:
 - Crucial in passing closely divided legislation
 ---
 ## **Truth Test: Trump vs. Biden & Kamala** 
-Trump’s a serial liar. PolitiFact: 76% misleading/false, 18% Pants on Fire. Biden: 59% accurate, 41% false/misleading. [Source: PolitiFact](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-in-1000-fact-checks-of-don/). Fact-checks show Harris’s claims hold up better than Trump’s.[FactCheck.org, July 2024](https://www.factcheck.org/2024/07/factchecking-vice-president-kamala-harris/).
+Trump’s a serial liar. PolitiFact: 76% misleading/false, 18% Pants on Fire. Biden: 59% accurate, 41% false/misleading. [Source: PolitiFact](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-in-1000-fact-checks-of-don/). Fact-checks show Harris’s claims hold up better than Trump’s. [FactCheck.org, July 2024](https://www.factcheck.org/2024/07/factchecking-vice-president-kamala-harris/).
 
 ---
 ## **Anti-Kamala/Biden Talking Points**
@@ -67,7 +67,8 @@ Trump’s crew spreads these to distract from his flops.
 
  - **“Gas Prices Are Biden’s Fault”**: Nope, global factors like the Russia-Ukraine war spiked them. Biden released reserves; U.S. production hit records. Trump’s tariffs are the real inflation driver now.
 
-- **“Trump Didn’t Start Any Wars”**: False—troops active in multiple spots, drone strikes killed civilians (e.g., Soleimani). Biden handled Trump’s botched Afghanistan withdrawal
+- **“Trump Didn’t Start Any Wars”**: False. troops active in multiple spots, drone strikes killed civilians (e.g., Soleimani). Biden handled Trump’s botched Afghanistan withdrawal
+  -  [Trump's 1st Admin sold 210 Javelin anti-tank missiles to Ukraine in 2018 valued at $47m](https://www.armscontrol.org/act/2018-04/news-briefs/us-anti-tank-missiles-headed-ukraine)
 
 - **“Open Border?”**: Biden deported 2.3M+ (more than Trump’s early years), continued Title 42, and boosted surveillance. Spikes are global, not policy.
 

@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-08-11T09:02:21.483-04:00"}
+{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-08-14T16:58:00.752-04:00"}
 ---
 
 ## 👋 Welcome to Jahmeer Jones’ Research Archive
 
-Welcome to my personal knowledge vault. This is where I <span style="color:rgb(255, 192, 0)">track</span>, <span style="color:rgb(192, 0, 0)">build</span>, and <span style="color:rgb(0, 176, 80)">refine every topic I’m exploring</span>, from <span style="color:rgb(0, 112, 192)">political strategy</span> to <span style="color:rgb(112, 48, 160)">cultural commentary</span>.
-
-Curated by **Jahmeer Jones** — aka [**Jahrix**](https://www.youtube.com/@JahrixYT) — this space serves as the **central brain** behind my debates, streams, and long-form video work. It’s designed for clarity, receipts, and real-time referencing.
+Welcome to my knowledge vault, the backbone of my fight to expose Donald Trump’s catastrophic second term. I’m Jahmeer Jones, aka Jahrix, a progressive debater and content creator tracking Trump’s lies, power grabs, and economic flops. This archive powers my YouTube videos, live debates, and social posts, built for clarity, receipts, and real-time takedowns
 
 ---
 
 ## 🔍 Currently Investigating
 
-Here’s what’s on my desk — topics I’m actively researching, scripting, or prepping content around:
+Here’s what’s on my desk, topics I’m actively researching, scripting, or prepping content around:
 
 - 🧠 **Trump’s Rhetoric Wins Over Voters**  
   - Trump’s rhetoric vs policy reality  
@@ -26,43 +24,44 @@ Here’s what’s on my desk — topics I’m actively researching, scripting, o
 
 ---
 
-## 🎥 How I Use This Archive
+## How I Use This Archive
 
-This isn’t just a notes app. It’s the engine behind the content.
+This vault is my engine for content creation and debates, built Destiny-style for precision and impact.
 
-- **💬 Live debates & panels**: Quick stat pulls, sourcing, live corrections 
-- **📜 Script development**: Structured arguments, receipts, sources, punchlines  
-- **📚 Deep dives**: Tracking contradictions, policy shifts, & media bias  
-- **🧠 Brain dump**: Personal insights, ongoing questions, rough takes  
+- **💬 Live Debates**: Real-time stat pulls and source checks to dunk on MAGA talking points.
 
-I reference this in real time during videos and streams. Found a mistake or have stronger data? DM me [on Instagram](https://www.instagram.com/ineireti/) — I’ll credit you 🔍
+- **📜 Video Scripts**: Structured arguments with receipts for YouTube roasts and TikTok shorts.
 
----
+- **📚Deep Dives**: Tracking Trump’s contradictions
 
-## 🗂️ Archive Structure (Quick Guide)
+-  **🧠 Brain dump**: Personal insights, ongoing questions, rough takes  
 
-A snapshot of how this vault is organized:
-
-| 📁 Folder                                    | 🗒️ Description                                                                                                   |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [[Research Introduction\| Research Vault]]/  | Long-form research, citations, case studies, and topic-specific deep dives.                                     |
-| 📁 [[Jahrix Show Introduction\| Jahrix Show]]/| Episode outlines, video ideas, script drafts, and production notes.                                             |
-| 📁 `Clips/`                                  | Timestamped segments from content — useful for Shorts, edits, and receipts. (Clipping system in progress 🛠️)    |
+> **Community Input**: Send better data or corrections via [Instagram](https://www.instagram.com/ineireti/). I’ll shout you out.
 
 ---
 
-## 🧠 Quote of the Week
+## ## Archive Structure
 
-> “It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out.  
-> Yet I keep them, because in spite of everything, I still believe that people are really good at heart.”  
-> — *Anne Frank*
+A quick guide to navigating my vault, with links to key sections.
+
+|                    |                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------- |
+| Folder             | Description                                                                     |
+| [[Research Vault\|Research Vault]] | Core research on Trump’s failures, with citations and case studies.             |
+| [[Jahrix Show\|Jahrix Show]]    | Video outlines, script drafts, and production notes for YouTube/TikTok content. |
+| [[Clips\|Clips]]          | Timestamped segments for quick edits and Shorts—system in progress.             |
 
 ---
 
-## 🙏 Thanks for Stopping By
+## Quote of the Week
 
-This isn’t a final product — it’s a **living archive** of how I think, adapt, and respond to the moment.  
+> “The truth is rarely pure and never simple.”  
+> — _Oscar Wilde_
 
-If you’re digging through, remix whatever you want — just give credit where it’s due.
+---
 
-— *Jahmeer*
+## Thanks for Diving In
+
+This archive is a living project, evolving with every Trump blunder. Remix my notes, but credit Jahrix if you do. Subscribe to [Jahrix](http://www.youtube.com/@JahrixYT?sub_confirmation=1) on YouTube and follow me on [X](https://x.com/Jahrixx) for real-time takes.
+
+— Jahmeer
