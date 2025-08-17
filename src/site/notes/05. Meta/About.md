@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-08-14T16:58:00.752-04:00"}
+{"dg-publish":true,"permalink":"/05-meta/about/","tags":["gardenEntry"],"created":"2025-06-27T00:43:00.791-04:00","updated":"2025-08-17T14:08:15.937-04:00"}
 ---
 
 ## 👋 Welcome to Jahmeer Jones’ Research Archive
@@ -17,7 +17,7 @@ Here’s what’s on my desk, topics I’m actively researching, scripting, or p
   - Democrat messaging breakdowns  
   - Algorithmic influence on political perception  
 
-- 🍊 **Anti-Trump Research**  
+- 🍊 **[[03. Research Vault/Subjects/People/Trump/Trump Failed America\|Anti-Trump Research]]**
 
 - 🔍 **Jeffrey Epstein**  
   - Timeline of events  
@@ -29,24 +29,20 @@ Here’s what’s on my desk, topics I’m actively researching, scripting, or p
 This vault is my engine for content creation and debates, built Destiny-style for precision and impact.
 
 - **💬 Live Debates**: Real-time stat pulls and source checks to dunk on MAGA talking points.
-
 - **📜 Video Scripts**: Structured arguments with receipts for YouTube roasts and TikTok shorts.
-
 - **📚Deep Dives**: Tracking Trump’s contradictions
-
 -  **🧠 Brain dump**: Personal insights, ongoing questions, rough takes  
 
 > **Community Input**: Send better data or corrections via [Instagram](https://www.instagram.com/ineireti/). I’ll shout you out.
 
 ---
 
-## ## Archive Structure
+## Archive Structure
 
 A quick guide to navigating my vault, with links to key sections.
 
-|                    |                                                                                 |
-| ------------------ | ------------------------------------------------------------------------------- |
 | Folder             | Description                                                                     |
+| ------------------ | ------------------------------------------------------------------------------- |
 | [[Research Vault\|Research Vault]] | Core research on Trump’s failures, with citations and case studies.             |
 | [[Jahrix Show\|Jahrix Show]]    | Video outlines, script drafts, and production notes for YouTube/TikTok content. |
 | [[Clips\|Clips]]          | Timestamped segments for quick edits and Shorts—system in progress.             |
