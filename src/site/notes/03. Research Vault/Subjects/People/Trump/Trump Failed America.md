@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-research-vault/subjects/people/trump/trump-failed-america/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-08-15T17:45:06.533-04:00"}
+{"dg-publish":true,"permalink":"/03-research-vault/subjects/people/trump/trump-failed-america/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-08-17T14:10:07.093-04:00"}
 ---
 
 Trump rode back into the White House on promises of "winning bigly," & "America is BACK," but by mid-2025, it's clear he's fumbling everything. Inflation's ticking up thanks to his tariff wars, global alliances are crumbling, and his domestic policies are hitting the working class hardest.
@@ -124,16 +124,15 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 
 ###  **What Gets Funded**
 
-|   |   |   |
-|---|---|---|
-|**Category**|**Allocation**|**Purpose**|
-|🧱 **Border Wall**|~$46.5B|Cameras, lighting, surveillance, roads|
-|🛏️ **Detention Capacity**|~$45B|Camps/beds up to ~116K detainees|
-|👮 **ICE Personnel & Tech**|~$29.9B|Agents, equipment, transport|
-|🏢 **CBP Facilities**|~$5B|Checkpoints, facility upgrades|
-|🚔 **Border Patrol Agents**|~$4.1B|Hiring/training for patrol, marine agents|
-|💵 **Bonuses/Retention**|~$2B|Incentives for agents/staff|
-|⚖️ **Immigration Courts**|~$3.3B|Hires judges/support staff; capped at 800 judges by Nov 2028|
+| **Category**                | **Allocation** | **Purpose**                                                  |
+| --------------------------- | -------------- | ------------------------------------------------------------ |
+| 🧱 **Border Wall**          | ~$46.5B        | Cameras, lighting, surveillance, roads                       |
+| 🛏️ **Detention Capacity**  | ~$45B          | Camps/beds up to ~116K detainees                             |
+| 👮 **ICE Personnel & Tech** | ~$29.9B        | Agents, equipment, transport                                 |
+| 🏢 **CBP Facilities**       | ~$5B           | Checkpoints, facility upgrades                               |
+| 🚔 **Border Patrol Agents** | ~$4.1B         | Hiring/training for patrol, marine agents                    |
+| 💵 **Bonuses/Retention**    | ~$2B           | Incentives for agents/staff                                  |
+| ⚖️ **Immigration Courts**   | ~$3.3B         | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ---
 ### **Sources**
