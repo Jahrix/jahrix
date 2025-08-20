@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/people/jeffrey-epstein/","tags":["epstein","research"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T01:47:52.000-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/people/jeffrey-epstein/","tags":["epstein","research"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T12:35:43.239-04:00"}
 ---
 
 ### Locations
-- [[Little Saint James, U.S. Virgin Islands\|Little Saint James, U.S. Virgin Islands]]
-- [[West Palm Beach, Florida\|West Palm Beach, Florida]]
-- [[New York City, New York\|New York City, New York]]
+- [[02. Research Vault/Places/International/Little Saint James\|Little Saint James]]
+- [[02. Research Vault/Places/Cities/West Palm Beach\|West Palm Beach]]
+- [[02. Research Vault/Places/Cities/New York City\|New York City]]
 ### Sources
 1. Wikipedia - "[Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)" Accessed, August 11, 2025.
 2. Baltz, H. (2025, July 23). _Jeffrey Epstein timeline: How the Palm Beach County case led to 15 more years of sex abuse_. The Palm Beach Post. https://www.palmbeachpost.com/story/news/2024/07/08/jeffrey-epstein-case-timeline-why-early-case-failed-in-palm-beach/70351312007/
