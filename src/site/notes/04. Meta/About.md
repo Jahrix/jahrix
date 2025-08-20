@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/about/","tags":["gardenEntry"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T01:47:52.000-04:00"}
+{"dg-publish":true,"permalink":"/04-meta/about/","tags":["gardenEntry"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T12:39:15.392-04:00"}
 ---
 
-## 👋 Welcome to Jahmeer Jones’ Research Archive
+# 👋 Welcome to Jahmeer Jones’ Research Archive
 
 Welcome to my knowledge vault, the backbone of my fight to expose Donald Trump’s catastrophic second term. I’m Jahmeer Jones, aka Jahrix, a progressive debater and content creator tracking Trump’s lies, power grabs, and economic flops. This archive powers my YouTube videos, live debates, and social posts, built for clarity, receipts, and real-time takedowns
 
@@ -34,18 +34,6 @@ This vault is my engine for content creation and debates, built Destiny-style fo
 -  **🧠 Brain dump**: Personal insights, ongoing questions, rough takes  
 
 > **Community Input**: Send better data or corrections via [Instagram](https://www.instagram.com/ineireti/). I’ll shout you out.
-
----
-
-## Archive Structure
-
-A quick guide to navigating my vault, with links to key sections.
-
-| Folder             | Description                                                                     |
-| ------------------ | ------------------------------------------------------------------------------- |
-| [[Research Vault\|Research Vault]] | Core research on Trump’s failures, with citations and case studies.             |
-| [[Jahrix Show\|Jahrix Show]]    | Video outlines, script drafts, and production notes for YouTube/TikTok content. |
-| [[Clips\|Clips]]          | Timestamped segments for quick edits and Shorts—system in progress.             |
 
 ---
 
