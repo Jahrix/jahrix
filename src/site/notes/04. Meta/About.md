@@ -17,7 +17,7 @@ Here’s what’s on my desk, topics I’m actively researching, scripting, or p
   - Democrat messaging breakdowns  
   - Algorithmic influence on political perception  
 
-- 🍊 **[[Trump Failed America\|Anti-Trump Research]]**
+- 🍊 **[[02. Research Vault/Library/Trump Failed America\|Anti-Trump Research]]**
 
 - 🔍 **Jeffrey Epstein**  
   - Timeline of events  
