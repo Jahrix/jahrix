@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/trump-failed-america/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-08-20T10:32:48.443-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/trump-failed-america/","tags":["policy","research"],"updated":"2025-08-20T10:32:48.443-04:00"}
 ---
 
 Trump rode back into the White House on promises of "winning bigly" and "America is BACK," but by mid-2025, it's clear he's fumbling everything. Inflation's ticking up thanks to his tariff wars, global alliances are crumbling, and his domestic policies are hitting the working class hardest.

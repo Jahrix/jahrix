@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/events/2025-white-house-trump-zelenskyy-meeting/","created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T12:39:42.118-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/events/2025-white-house-trump-zelenskyy-meeting/","updated":"2025-08-20T12:39:42.118-04:00"}
 ---
 
 ## Trump
