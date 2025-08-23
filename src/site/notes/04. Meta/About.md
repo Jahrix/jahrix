@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/about/","tags":["gardenEntry"],"updated":"2025-08-20T12:39:15.392-04:00"}
+{"dg-publish":true,"permalink":"/04-meta/about/","tags":["gardenEntry"],"updated":"2025-08-22T14:10:22.360-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
@@ -17,7 +17,7 @@ Here’s what’s on my desk, topics I’m actively researching, scripting, or p
   - Democrat messaging breakdowns  
   - Algorithmic influence on political perception  
 
-- 🍊 **[[02. Research Vault/Library/Trump Failed America\|Anti-Trump Research]]**
+- 🍊 **[[02. Research Vault/Library/Anti-Trump Research Document\|Anti-Trump Research]]**
 
 - 🔍 **Jeffrey Epstein**  
   - Timeline of events  
