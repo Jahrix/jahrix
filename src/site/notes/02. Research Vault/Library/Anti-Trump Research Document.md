@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"updated":"2025-08-22T13:36:38.000-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"updated":"2025-08-24T22:12:35.795-04:00"}
 ---
 
 Trump rode back into the White House on promises of "winning bigly" and "America is BACK," but by mid-2025, it's clear he's fumbling everything. Inflation's ticking up thanks to his tariff wars, global alliances are crumbling, and his domestic policies are hitting the working class hardest.
@@ -142,7 +142,6 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 - American Immigration Council press release: [“Senate Approves Unprecedented Spending for Mass Deportation”](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025)
 
 - Axios: [“ICE’s cash crisis deepens amid immigration crackdown”](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)
-
 - American Immigration Council: [Reconciliation bill fact sheet](https://www.americanimmigrationcouncil.org/fact-sheet/house-reconciliation-bill-immigration-border-security)
 
 - Courthouse News: [Coverage of psychological harms and bill specifics](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)
