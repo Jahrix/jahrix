@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/israel-palestine/governments/palestine-liberation-organization-plo/","updated":"2025-08-22T20:11:00.450-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/israel-palestine/governments/palestine-liberation-organization-plo/","created":"2025-08-21T09:19:25.029-04:00","updated":"2025-08-22T20:11:00.450-04:00"}
 ---
 
 ## Sources

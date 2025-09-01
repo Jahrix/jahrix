@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/events/2025-alaska-trump-putin-summit/","tags":["trump","summit"],"updated":"2025-08-20T01:47:52.000-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/events/2025-alaska-trump-putin-summit/","tags":["trump","summit"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T01:47:52.000-04:00"}
 ---
 
 # **📍Elmendorf-Richardson AFB, Anchorage, AK, USA**

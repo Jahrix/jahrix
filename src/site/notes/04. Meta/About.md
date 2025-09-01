@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/about/","tags":["gardenEntry"],"updated":"2025-08-22T14:10:22.360-04:00"}
+{"dg-publish":true,"permalink":"/04-meta/about/","tags":["gardenEntry"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-31T23:19:37.373-04:00"}
 ---
 
 # 👋 Welcome to Jahmeer Jones’ Research Archive
@@ -12,14 +12,14 @@ Welcome to my knowledge vault, the backbone of my fight to expose Donald Trump�
 
 Here’s what’s on my desk, topics I’m actively researching, scripting, or prepping content around:
 
-- 🧠 **Trump’s Rhetoric Wins Over Voters**  
-  - Trump’s rhetoric vs policy reality  
-  - Democrat messaging breakdowns  
-  - Algorithmic influence on political perception  
+- 🍉 **Israel-Palestine**
+    - [[02. Research Vault/Israel-Palestine/Events/2023.10.07 - present - Israel-Palestine War\|2023.10.07 - present - Israel-Palestine War]]
+    - [[02. Research Vault/Israel-Palestine/Events/1970.09.06. - 1971.07.23 - Black September, or the Jordanian Civil War\|1970.09.06. - 1971.07.23 - Black September, or the Jordanian Civil War]]
+    - [[02. Research Vault/Israel-Palestine/Events/2023.10.07 - October 7th Attacks\|2023.10.07 - October 7th Attacks]] _**SOON**_
 
 - 🍊 **[[02. Research Vault/Library/Anti-Trump Research Document\|Anti-Trump Research]]**
 
-- 🔍 **Jeffrey Epstein**  
+- 🔍 **[[02. Research Vault/People/Jeffrey Epstein\|Jeffrey Epstein]]**  
   - Timeline of events  
 
 ---

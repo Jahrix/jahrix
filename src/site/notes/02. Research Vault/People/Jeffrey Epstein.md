@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/people/jeffrey-epstein/","tags":["epstein","research"],"updated":"2025-08-20T12:35:43.239-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/people/jeffrey-epstein/","tags":["epstein","research"],"created":"2025-08-19T22:00:27.000-04:00","updated":"2025-08-20T12:35:43.239-04:00"}
 ---
 
 ### Locations

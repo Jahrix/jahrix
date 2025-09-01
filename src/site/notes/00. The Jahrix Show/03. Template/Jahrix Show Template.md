@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-the-jahrix-show/03-template/jahrix-show-template/","tags":["jahrixshow","politics","edithere"],"updated":"2025-08-25T10:42:21.661-04:00"}
+{"dg-publish":true,"permalink":"/00-the-jahrix-show/03-template/jahrix-show-template/","tags":["jahrixshow","politics","edithere"],"created":"2025-08-25T10:34:30.218-04:00","updated":"2025-08-25T10:42:21.661-04:00"}
 ---
 
 ---

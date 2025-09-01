@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"updated":"2025-08-31T21:32:53.409-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-08-31T22:14:59.427-04:00"}
 ---
 
 Trump returned to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's evident he's mishandling everything. Inflation is rising as a result of his trade conflicts, global alliances are collapsing, and his domestic policies are disproportionately affecting the working class.
 
 ## Foreign Policy
-
+---
 His "America First" shtick has isolated us, emboldened enemies, and tanked U.S. influence. Global confidence in him is at a pitiful 32% median across 24 countries for handling economic issues, with 67% lacking faith. [Source: Pew Research, June 2025](https://www.pewresearch.org/global/2025/06/11/confidence-in-trump-to-handle-global-issues/).
 
 Here's the expanded lowdown:
@@ -17,10 +17,8 @@ Here's the expanded lowdown:
 - **Tariff Wars Hurting Allies**: Slapping 35% tariffs on Canada over fentanyl (despite only 119lbs seized from 2022-2025) and threats to Mexico/China are tanking trade. Economists say this could shrink global growth by 2025. [Source: PIIE Working Paper, June 2025](https://www.piie.com/publications/working-papers/2025/global-economic-effects-trumps-2025-tariffs); [CBP Stats](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics). He threatened Brazil with 50% tariffs to drop charges against Bolsonaro, meddling in allies' affairs like a bully. [Source: MEI, May 2025](https://www.mei.edu/publications/trumps-diplomatic-failures-russia-cast-pall-over-his-middle-east-efforts); [CBS on Bolsonaro](https://www.cbsnews.com/news/brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/).
 
 - **General Chaos**: In his first 100 days, Trump froze trillions in grants/loans illegally, weakening U.S. leverage abroad. He's joined Israel in attacking Iran, contradicting his "no wars" boast. [Source: New Dem Coalition, April 2025](https://newdemocratcoalition.house.gov/media-center/press-releases/100-days-100-disasters-new-dem-leadership-looks-back-on-the-first-chaotic-months-of-the-trump-administration); [Hill Op-Ed, July 2025](https://thehill.com/opinion/campaign/5380124-trumps-failures-are-turning-americans-away-from-him/).
-
----
 ## Domestic Policy
-
+---
 - **Economic Uncertainty from Tariffs**: Trump is a "TACO" (Trump Always Chickens Out) on promises like healthcare/infrastructure, but his tariffs are a disaster. Inflation rose to 2.7% in July 2025 (up 0.3% from May), with [US Core Inflation going up to 3.1%](https://tradingeconomics.com/united-states/core-inflation-rate), directly tied to tariffs boosting prices. Growth forecasts for 2025 are down to 1.4% (vs. 2.8% pre-tariffs), risking stagflation. [Source: BLS CPI, July 2025](https://www.bls.gov/cpi/); [Forbes/CNN, August 2025](https://archive.ph/EwnUs/); [Yale Insights, August 2025](https://insights.som.yale.edu/insights/trumps-tariff-tantrums-are-hobbling-the-us-economy).
 
 - **Immigration Overreach**: The OBBB funnels $133B+ into mass deportations, detention camps (116K beds), and border walls, but it's ineffective and cruel. ICE was already $1B over budget pre-bill. Cuts to Medicaid/food assistance hit low-income families hard. [Source: Axios, July 2025](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill); [Guardian, July 2025](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill).
@@ -30,9 +28,8 @@ Here's the expanded lowdown:
 - **DC Takeover Meltdown**: Trump's presser rants about seizing DC police/National Guard contradicting low crime stats. [DC restaurants are actually losing customers despite Trump saying restaurants are busier than ever](https://www.fox5dc.com/news/dc-restaurant-dining-plunges-trumps-crime-crackdown-continues).
 
 - **Personal Waste**: Trump's golfed ~25% of his days in office (51/205 as of July 2025), costing taxpayers $71.4M+. Recent Scotland trip? Another $10M hit. [Source: Guardian, March 2025](https://www.theguardian.com/commentisfree/2025/mar/17/trump-golf-taxes); [Independent, July 2025](https://www.the-independent.com/news/world/americas/us-politics/trump-scotland-golf-taxpayer-turnberry-b2796021.html).
----
 ## What Biden/Kamala Have Delivered
-
+---
 **Inflation Reduction Act**  
     - Caps insulin at **$35/month** for Medicare seniors  
     - Enables Medicare negotiation of drug prices  
@@ -56,15 +53,11 @@ Here's the expanded lowdown:
 **Kamala Harris**  
     - Record for most VP tie-breaking Senate votes  
     - Crucial in passing closely divided legislation
-
----
 ## Truth Test: Trump vs. Biden & Kamala
-
-Trump’s a serial liar. PolitiFact: 76% misleading/false, 18% Pants on Fire. Biden: 59% accurate, 41% false/misleading. [Source: PolitiFact](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-in-1000-fact-checks-of-don/). Fact-checks show Harris’s claims hold up better than Trump’s. [FactCheck.org, July 2024](https://www.factcheck.org/2024/07/factchecking-vice-president-kamala-harris/).
-
 ---
-## Anti-Kamala/Biden Talking Points  
-  
+Trump’s a serial liar. PolitiFact: 76% misleading/false, 18% Pants on Fire. Biden: 59% accurate, 41% false/misleading. [Source: PolitiFact](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-in-1000-fact-checks-of-don/). Fact-checks show Harris’s claims hold up better than Trump’s. [FactCheck.org, July 2024](https://www.factcheck.org/2024/07/factchecking-vice-president-kamala-harris/).
+## Anti-Kamala/Biden Talking Points
+---
 Trump's team/Conservative influencers distributes these talking points to divert attention away from his failures.  
   
 - **"Gas Prices Are Biden's Fault"**: No, global events such as the Russia-Ukraine conflict exacerbated them. Biden released reserves, and US production surpassed previous records. Trump's tariffs are currently the primary driver of inflation.  
@@ -76,16 +69,17 @@ Trump's team/Conservative influencers distributes these talking points to divert
   
 - **"Why Didn't Kamala Have a Primary?"**: The Democratic Primary spanned from January to June 2024; Biden dropped out on July 21, while Harris was nominated unchallenged at the convention.  
     - **"Kamala Lost in 2020"**: Biden dropped pre-primary and became VP—no opponents, as per Gore/LBJ norms.
----
 ## Trump’s Golf Habit
+---
 
 As of September 1st, 2025, Trump has spent 57 out of his 224 days in office **(~25.4%)** playing golf. That’s **$79.8 million** in taxpayer costs.  
 — Source: [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/) | [Trump's Schedule - RollCall](https://rollcall.com/factbase/trump/topic/calendar/)
 
---- 
 ## Trump's OBBB (One Big Beautiful Bill)
+---
 
 ### Full Analysis
+---
 On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bill**, which features an unprecedented expansion of immigration enforcement in line with his second-term policy goal.  
   
 > [! Spolier:]
@@ -115,6 +109,7 @@ On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bi
 | Ends climate resilience funding        | ❌ BAD                          | Slows down green jobs and infrastructure.                                                                                                                              |
 | Medicaid cuts                          | ❌ BAD                          | Devastating for seniors, low-income, disabled. Medicaid cuts take effect 1/1/27                                                                                        |
 ### Immigration Enforcement Breakdown
+---
 
 | Detail                | Info                                                                                                                  |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -123,6 +118,7 @@ On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bi
 | **ICE Budget Before** | [~$9B/year](https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                      |
 | **ICE Over-Spending** | [$1B over budget pre-bill](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)              |
 ### What Gets Funded
+---
 
 | Category                    | Allocation | Purpose                                                      |
 | --------------------------- | ---------- | ------------------------------------------------------------ |
@@ -135,6 +131,7 @@ On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bi
 | ⚖️ **Immigration Courts**   | ~$3.3B     | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ### Sources
+---
 - Axios: [“How the GOP spending bill will fund immigration enforcement”](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill)
 
 - American Immigration Council press release: [“Senate Approves Unprecedented Spending for Mass Deportation”](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025)
@@ -148,8 +145,8 @@ On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bi
 - The Guardian: [How Trump’s bill will supercharge mass deportations by funneling $170bn to ICE](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill)
 
 ---
-## Trump's Tariff Blunder  
-  
+## Trump's Tariff Blunder
+---
 Trump is a known **TACO**, which stands for '**Trump Always Chickens Out.**' This is completely backed when Trump claims **2 weeks**, whether it comes to his 'healthcare plan, infrastructure plan, and potential TikTok divestment.  
   
 - [Trump's Tariffs are a catastrophe for the US economy, as inflation has risen 0.3 from 2.4% in May to 2.7% in the newest Bureau of Labor Statistics research](https://www.bls.gov/cpi/).  
@@ -159,6 +156,7 @@ Trump is a known **TACO**, which stands for '**Trump Always Chickens Out.**' Thi
 - [Trump has also threatened Canada with tariffs of 35% if they can't halt, and I'm not joking](https://twitter.com/RapidResponse47/status/1943475206049435931/photo/1) [119lbs/53kgs of Fent coming across the border from Canada's border with the US from 2022-2025](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics).
 ---
 ## Politicization of the DOJ
+---
 Trump supporters utilize the talking point of "Biden weaponizing the DOJ" to distract from Donald Trump's mishandling of sensitive materials, which he seized as president and concealed in a Mar-a-Lago bathroom until 2023, when they were discovered during an FBI raid. However, Donald Trump has recently militarized the Department of Justice without the knowledge of his followers. First, he asked Attorney General Pam Bondi to form a "Weaponization Working Group" to investigate and destroy what they call "politicized" cases from the previous administration.
 
 Here’s the breakdown:
@@ -172,3 +170,6 @@ Here’s the breakdown:
 - **Attack on the Judiciary**: [Bondi filed a misconduct complaint against Judge James Boasberg, who supervises cases against the Trump administration, intensifying attacks on independent judges.](https://apnews.com/article/boasberg-salvador-venezuela-trump-misconduct-complaint-b5f5e982263b95f32e4229aefe312f12)
  
 - **Partisan Cover-Ups**: [In order to shield party members and pursue Democrats, Bondi disregarded the Signal chat controversy involving Republican officials.](https://san.com/media-miss/attorney-general-bondi-downplays-need-for-signal-chat-probe-as-lawmakers-push-for-investigation/)
+
+## Failure of Mass Deportations
+---
