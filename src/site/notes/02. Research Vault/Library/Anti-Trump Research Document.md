@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"updated":"2025-08-24T22:12:35.795-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"updated":"2025-08-31T21:32:53.409-04:00"}
 ---
 
-Trump rode back into the White House on promises of "winning bigly" and "America is BACK," but by mid-2025, it's clear he's fumbling everything. Inflation's ticking up thanks to his tariff wars, global alliances are crumbling, and his domestic policies are hitting the working class hardest.
+Trump returned to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's evident he's mishandling everything. Inflation is rising as a result of his trade conflicts, global alliances are collapsing, and his domestic policies are disproportionately affecting the working class.
 
 ## Foreign Policy
 
@@ -63,34 +63,33 @@ Here's the expanded lowdown:
 Trump’s a serial liar. PolitiFact: 76% misleading/false, 18% Pants on Fire. Biden: 59% accurate, 41% false/misleading. [Source: PolitiFact](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-in-1000-fact-checks-of-don/). Fact-checks show Harris’s claims hold up better than Trump’s. [FactCheck.org, July 2024](https://www.factcheck.org/2024/07/factchecking-vice-president-kamala-harris/).
 
 ---
-## Anti-Kamala/Biden Talking Points
-
-Trump’s crew spreads these to distract from his flops.
-
-- **“Gas Prices Are Biden’s Fault”**: Nope, global factors like the Russia-Ukraine war spiked them. Biden released reserves; U.S. production hit records. Trump’s tariffs are the real inflation driver now.
-
-- **“Trump Didn’t Start Any Wars”**: False. Troops active in multiple spots, drone strikes killed civilians (e.g., Soleimani). Biden handled Trump’s botched Afghanistan withdrawal.  
-  - [Trump's 1st Admin sold 210 Javelin anti-tank missiles to Ukraine in 2018 valued at $47m](https://www.armscontrol.org/act/2018-04/news-briefs/us-anti-tank-missiles-headed-ukraine).
-
-- **“Open Border?”**: Biden deported 2.3M+ (more than Trump’s early years), continued Title 42, and boosted surveillance. Spikes are global, not policy.
-
-- **“Why Didn’t Kamala Have a Primary?”**: It ran Jan-Jun 2024; Biden dropped July 21, Harris nominated unopposed at convention.
-
-- **“Kamala Lost in 2020”**: Dropped pre-primary, became VP—no challengers, like Gore/LBJ norms.
+## Anti-Kamala/Biden Talking Points  
+  
+Trump's team/Conservative influencers distributes these talking points to divert attention away from his failures.  
+  
+- **"Gas Prices Are Biden's Fault"**: No, global events such as the Russia-Ukraine conflict exacerbated them. Biden released reserves, and US production surpassed previous records. Trump's tariffs are currently the primary driver of inflation.  
+  
+- **"Trump Didn't Start Any Wars"** is false. Troops were deployed in numerous locations, and drone strikes killed civilians (e.g., Soleimani). Biden oversaw Trump's failed Afghanistan withdrawal.  
+    - [In 2018, the Trump administration supplied 210 Javelin anti-tank missiles to Ukraine for $47 million.](https://www.armscontrol.org/act/2018-04/news-briefs/us-anti-tank-missiles-headed-ukraine).  
+  
+- "**Open Border?"**: Biden deported more than 2.3 million people (more than Trump in his early years), maintained Title 42, and increased monitoring. Spikes are global in nature, not policy-related.  
+  
+- **"Why Didn't Kamala Have a Primary?"**: The Democratic Primary spanned from January to June 2024; Biden dropped out on July 21, while Harris was nominated unchallenged at the convention.  
+    - **"Kamala Lost in 2020"**: Biden dropped pre-primary and became VP—no opponents, as per Gore/LBJ norms.
 ---
 ## Trump’s Golf Habit
 
-As of 2025-08-13, Trump has spent 53 out of his 213 days in office **(~24.8%)** playing golf. That’s **$71.4 million** in taxpayer costs.  
+As of September 1st, 2025, Trump has spent 57 out of his 224 days in office **(~25.4%)** playing golf. That’s **$79.8 million** in taxpayer costs.  
 — Source: [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/) | [Trump's Schedule - RollCall](https://rollcall.com/factbase/trump/topic/calendar/)
 
 --- 
 ## Trump's OBBB (One Big Beautiful Bill)
 
 ### Full Analysis
-
-The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th, 2025**, includes an unprecedented expansion of immigration enforcement aligned with Trump’s second-term policy agenda.
-
-> 🧨 **Spoiler**: The top-line tax breaks sound nice. But when you dig deeper, this bill mostly **benefits the ultra-wealthy and corporations**, while making life harder for working Americans.
+On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bill**, which features an unprecedented expansion of immigration enforcement in line with his second-term policy goal.  
+  
+> [! Spolier:]
+ The top-line tax breaks seem like a good idea. However, a closer look reveals that this measure primarily **helps businesses and the ultra-wealthy** while making life more difficult for working Americans.
 
 📊 **Source of Chart**: [Washington Post + Committee for a Responsible Federal Budget](https://archive.ph/OlYUd)
 
@@ -125,25 +124,23 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 | **ICE Over-Spending** | [$1B over budget pre-bill](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)              |
 ### What Gets Funded
 
-| Category                     | Allocation | Purpose                             |
-|------------------------------|------------|-------------------------------------|
-| 🧱 **Border Wall**           | ~$46.5B    | Cameras, lighting, surveillance, roads |
-| 🛏️ **Detention Capacity**   | ~$45B      | Camps/beds up to ~116K detainees    |
-| 👮 **ICE Personnel & Tech**  | ~$29.9B    | Agents, equipment, transport        |
-| 🏢 **CBP Facilities**        | ~$5B       | Checkpoints, facility upgrades      |
-| 🚔 **Border Patrol Agents**  | ~$4.1B     | Hiring/training for patrol, marine agents |
-| 💵 **Bonuses/Retention**     | ~$2B       | Incentives for agents/staff         |
-| ⚖️ **Immigration Courts**    | ~$3.3B     | Hires judges/support staff; capped at 800 judges by Nov 2028 |
+| Category                    | Allocation | Purpose                                                      |
+| --------------------------- | ---------- | ------------------------------------------------------------ |
+| 🧱 **Border Wall**          | ~$46.5B    | Cameras, lighting, surveillance, roads                       |
+| 🛏️ **Detention Capacity**  | ~$45B      | Camps/beds up to ~116K detainees                             |
+| 👮 **ICE Personnel & Tech** | ~$29.9B    | Agents, equipment, transport                                 |
+| 🏢 **CBP Facilities**       | ~$5B       | Checkpoints, facility upgrades                               |
+| 🚔 **Border Patrol Agents** | ~$4.1B     | Hiring/training for patrol, marine agents                    |
+| 💵 **Bonuses/Retention**    | ~$2B       | Incentives for agents/staff                                  |
+| ⚖️ **Immigration Courts**   | ~$3.3B     | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ### Sources
-
 - Axios: [“How the GOP spending bill will fund immigration enforcement”](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill)
 
 - American Immigration Council press release: [“Senate Approves Unprecedented Spending for Mass Deportation”](https://www.americanimmigrationcouncil.org/press-release/congress-approves-unprecedented-funding-mass-detention-deportation-2025)
 
 - Axios: [“ICE’s cash crisis deepens amid immigration crackdown”](https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump)
 - American Immigration Council: [Reconciliation bill fact sheet](https://www.americanimmigrationcouncil.org/fact-sheet/house-reconciliation-bill-immigration-border-security)
-
 - Courthouse News: [Coverage of psychological harms and bill specifics](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)
 
 - Bolts Magazine: [Local enforcement funding analysis](https://boltsmag.org/how-the-gop-megabill-would-turbocharge-local-immigration-enforcement)
@@ -151,24 +148,27 @@ The **One Big Beautiful Bill**, signed by President Trump on **Friday, July 4th,
 - The Guardian: [How Trump’s bill will supercharge mass deportations by funneling $170bn to ICE](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill)
 
 ---
-## Trump's Tariff Blunder
-
-Trump is a known **TACO**, which stands for '**Trump Always Chickens Out.**' This is completely backed when Trump says **2 weeks**, whether it comes to his 'healthcare plan, infrastructure plan, and potential TikTok divestment.
-
-- [Trump's Tariffs are a disaster for the US economy, as inflation has risen 0.3 from 2.4% in May to 2.7% in the newest Bureau of Labor Statistics research](https://www.bls.gov/cpi/).
-
-- Donald Trump has used these tariffs as threats for political pressure such as to free political allies such as [Jair Bolsonaro, who is currently on trial on charges of trying to overturn the 2022 Brazilian election](https://www.cbsnews.com/news/brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/), [sending out a tariff letter and saying Brazil's tariff rate is now 50% if they do not stop this 'witch hunt' of Bolsonaro](https://twitter.com/RapidResponse47/status/1943043154946457812/photo/1).
-
-- [Trump has also threatened Canada with tariffs of 35% if they can't stop, and I'm not joking](https://twitter.com/RapidResponse47/status/1943475206049435931/photo/1) [119lbs/53kgs of Fent coming across the border from Canada's border with the US from 2022-2025](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics).
+## Trump's Tariff Blunder  
+  
+Trump is a known **TACO**, which stands for '**Trump Always Chickens Out.**' This is completely backed when Trump claims **2 weeks**, whether it comes to his 'healthcare plan, infrastructure plan, and potential TikTok divestment.  
+  
+- [Trump's Tariffs are a catastrophe for the US economy, as inflation has risen 0.3 from 2.4% in May to 2.7% in the newest Bureau of Labor Statistics research](https://www.bls.gov/cpi/).  
+  
+- Donald Trump has used these tariffs as threats for political pressure such as to free political allies such as [Jair Bolsonaro, who is currently on trial on charges of trying to overturn the 2022 Brazilian election](https://www.cbsnews.com/news/brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/), [sending out a tariff letter and saying Brazil's tariff rate is now 50% if they do not stop this 'witch hunt' of Bolsonaro](https://twitter.com/RapidResponse47/status/1943043154946457812/photo/1).  
+  
+- [Trump has also threatened Canada with tariffs of 35% if they can't halt, and I'm not joking](https://twitter.com/RapidResponse47/status/1943475206049435931/photo/1) [119lbs/53kgs of Fent coming across the border from Canada's border with the US from 2022-2025](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics).
 ---
-## Politicization of DOJ
-
-Trump supporters use the talking point of “Biden weaponizing the DOJ” to deflect from Donald Trump’s mishandling of classified documents, which he took as president and hid in a Mar-a-Lago bathroom until 2023, when they were discovered during an FBI raid. Yet, as of recently, Donald Trump has weaponized the DOJ himself, with no word from his supporters. First, he directed Attorney General Pam Bondi to establish a “Weaponization Working Group” to review and dismantle what they claim are “politicized” cases from the previous administration. 
+## Politicization of the DOJ
+Trump supporters utilize the talking point of "Biden weaponizing the DOJ" to distract from Donald Trump's mishandling of sensitive materials, which he seized as president and concealed in a Mar-a-Lago bathroom until 2023, when they were discovered during an FBI raid. However, Donald Trump has recently militarized the Department of Justice without the knowledge of his followers. First, he asked Attorney General Pam Bondi to form a "Weaponization Working Group" to investigate and destroy what they call "politicized" cases from the previous administration.
 
 Here’s the breakdown:
 
-- Targeting Political Opponents: Bondi’s DOJ opened investigations into the New York AG’s office (which prosecuted Trump for fraud) and Sen. Adam Schiff (D-Calif.) over alleged mortgage fraud, seen as retaliation against Trump’s critics.
-- Dismissing Cases: Bondi dismissed Biden-era lawsuits, including one against Georgia’s election laws, framing it as ending “weaponized litigation” while protecting Trump’s allies.
-- Reviewing Trump’s Prosecutions: She ordered a review of federal cases against Trump, aiming to overhaul the department and halt ongoing probes.
-- Attacking the Judiciary: Bondi filed a misconduct complaint against Judge James Boasberg, who oversees lawsuits against the Trump administration, escalating attacks on independent judges.
-- Partisan Cover-Ups: In a brazen move, Bondi dismissed the Signal chat scandal involving Republican officials, ignoring evidence to protect party members while pursuing Democrats.
+- **Targeting Political Opponents**: [Bondi's DOJ launched investigations against the New York Attorney General's office and Sen. Adam Schiff (D-Calif) over potential mortgage fraud.](https://www.nbcnews.com/politics/justice-department/doj-opens-investigation-new-york-ags-office-brought-fraud-case-trump-rcna223731)  
+  
+- **Dismissing Cases**: [Bondi dismissed Biden-era cases, including one against Georgia's voting regulations, claiming it ended "weaponized litigation" while shielding Trump's backers.](https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-dismisses-biden-era-lawsuit-against-commonsense-georgia)  
+  
+- **Reviewing Trump's Prosecutions**: [She ordered a review of federal cases against Trump with the goal of overhauling the agency and halting pending investigations.](https://www.pbs.org/newshour/politics/bondi-orders-review-of-trump-cases-after-being-sworn-in-as-attorney-general)  
+  
+- **Attack on the Judiciary**: [Bondi filed a misconduct complaint against Judge James Boasberg, who supervises cases against the Trump administration, intensifying attacks on independent judges.](https://apnews.com/article/boasberg-salvador-venezuela-trump-misconduct-complaint-b5f5e982263b95f32e4229aefe312f12)
+ 
+- **Partisan Cover-Ups**: [In order to shield party members and pursue Democrats, Bondi disregarded the Signal chat controversy involving Republican officials.](https://san.com/media-miss/attorney-general-bondi-downplays-need-for-signal-chat-probe-as-lawmakers-push-for-investigation/)
