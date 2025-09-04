@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-03T23:40:25.350-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-03T23:57:42.786-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -17,7 +17,7 @@ Here is the enlarged lowdown:
 - **Tariff Wars Hurting Allies**: Imposing 35% tariffs on Canada for fentanyl (despite only 119lbs confiscated between 2022 and 2025) and threats against Mexico and China are stifling commerce. Economists believe this could slow global development by 2025. [Source: PIIE Working Paper, June 2025](https://www.piie.com/publications/working-papers/2025/global-economic-effects-trumps-2025-tariffs) and [CBP Stats](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics). He threatened Brazil with 50% tariffs if it dropped charges against Bolsonaro, intervening in the affairs of allies like a bully. [Source: MEI, May 2025](https://www.mei.edu/publications/trumps-diplomatic-failures-russia-cast-pall-over-his-middle-east-efforts); [CBS on Bolsonaro](https://www.cbsnews.com/news/Brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/).  
   
 - **General Chaos**: During his first 100 days, Trump illegally froze trillions of dollars in grants and loans, reducing the United States' international leverage. He has joined Israel in bombing Iran, violating his "no wars" claim. [Source: New Democrat Coalition, April 2025](https://newdemocratcoalition.house.gov/media-center/press-releases/100-days-100-disasters-new-dem-leadership-looks-back-on-the-first-chaotic-months-of-the-trump-administration); [Hill Op-Ed, July 2025](https://thehill.com/opinion/campaign/5380124-trumps-failures-are-turning-americans-away-from-him/).
-## ## Domestic Policy 
+## Domestic Policy 
 ---  
 - **Economic Uncertainty from Tariffs**: Trump is a "TACO" (Trump Always Chickens Out) when it comes to promises like healthcare and infrastructure, but his tariffs have been disastrous. Inflation increased to 2.7% in July 2025 (up 0.3% from May), with [US Core Inflation rising to 3.1%](https://tradingeconomics.com/united-states/core-inflation-rate), which is directly related to tariffs raising prices. Growth predictions for 2025 have been reduced to 1.4% (down from 2.8% pre-tariffs), raising the possibility of stagflation. [Source: BLS CPI, July 2025](https://www.bls.gov/cpi/); [Forbes/CNN, August 2025](https://archive.ph/EwnUs/); [Yale Insights, August 2025](https://insights.som.yale.edu/insights/trumps-tariff-tantrums-are-hobbling-the-us-economy).  
   
