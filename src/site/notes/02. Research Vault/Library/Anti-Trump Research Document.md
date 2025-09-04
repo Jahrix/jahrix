@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-01T13:55:50.491-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-03T23:40:25.350-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -186,3 +186,10 @@ Here’s the breakdown:
 ---
 Immigration was a winning topic for the Second Trump Administration (according to an [AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)). Their whole tagline included examples of migrant criminality and the term 'MASS DEPORTATIONS NOW'. There are 14-15 million undocumented migrants (actual. [14 million](https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/)) in the United States. T
 ### Lies by DHS Sec Kristi Noem
+
+## Trump’s 34 Felonies
+In a video by [@politipeach](https://files.catbox.moe/z8mi1e.mp4), she portrays a liberal character with blue hair who knows nothing about Trump's 34 felony counts. In 2016, Stormy Daniels, a porn star, received $130,000 from Trump through Michael Cohen for hush money 
+
+0:14: Peach says hush money isn't illegal, which it isn't illegal however, if you falsify business records to conceal a crime or violate campaign finance laws it is illegal.
+
+0:23: Peach says, "he labelled the payments as legal expenses"
