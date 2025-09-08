@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-03T23:57:42.786-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-08T18:28:05.293-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -81,12 +81,11 @@ Trump's team/Conservative influencers distributes these talking points to divert
 ## Trump’s Golf Habit
 ---
 
-As of September 1st, 2025, Trump has spent 57 out of his 224 days in office **(~25.4%)** playing golf. That’s **$79.8 million** in taxpayer costs.  
+As of September 1st, 2025, Trump has spent 58 out of his 224 days in office **(~25.0%)** playing golf. That’s **$81.2 million** in taxpayer costs.  
 — Source: [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/) | [Trump's Schedule - RollCall](https://rollcall.com/factbase/trump/topic/calendar/)
 
 ## Trump's OBBB (One Big Beautiful Bill)
 ---
-
 ### Full Analysis
 ---
 On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bill**, which features an unprecedented expansion of immigration enforcement in line with his second-term policy goal.  
@@ -118,28 +117,27 @@ On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bi
 | Ends climate resilience funding        | ❌ BAD               | Cuts green infrastructure/jobs; slows transition to sustainable economy, hurting working-class jobs and health in bottom 95% communities.                                                                                                                                                                                                |
 | Medicaid cuts                          | ❌ BAD               | $trillions slashed starting 1/1/27; devastating for seniors, low-income, and disabled in bottom 95%, leading to healthcare access loss and net losses up to $1,300.                                                                                                                                                                      |
 
-Counting the ❌ BADs, this measure is a net loss for the bottom 95%, with transitory bonuses compensated by tariffs and permanent losses. I believe this is a complete sham.
 ### Immigration Enforcement Breakdown
 ---
 
-| Detail                | Info                                                                                                             |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Timeframe**         | Now through **September 2029**                                                                                   |
-| **Total Funding**     | 💵 Over **$133 billion** [How the GOP spending bill will fund immigration enforcement](https://archive.ph/sAcVp) |
-| **ICE Budget Before** | [~$9B/year](https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                                 |
-| **ICE Over-Spending** | [$1B over budget pre-bill](https://archive.ph/PUtU4)                                                             |
+| Detail                | Info                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Timeframe**         | Now through **September 2029**                                                                                |
+| **Total Funding**     | Over **$133 billion** [How the GOP spending bill will fund immigration enforcement](https://archive.ph/sAcVp) |
+| **ICE Budget Before** | [~$9B/year](https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf) **PAGE 8**                              |
+| **ICE Over-Spending** | [$1B over budget pre-bill](https://archive.ph/PUtU4)                                                          |
 ### What Gets Funded
 ---
 
-| Category                    | Allocation | Purpose                                                      |
-| --------------------------- | ---------- | ------------------------------------------------------------ |
-| 🧱 **Border Wall**          | ~$46.5B    | Cameras, lighting, surveillance, roads                       |
-| 🛏️ **Detention Capacity**  | ~$45B      | Camps/beds up to ~116K detainees                             |
-| 👮 **ICE Personnel & Tech** | ~$29.9B    | Agents, equipment, transport                                 |
-| 🏢 **CBP Facilities**       | ~$5B       | Checkpoints, facility upgrades                               |
-| 🚔 **Border Patrol Agents** | ~$4.1B     | Hiring/training for patrol, marine agents                    |
-| 💵 **Bonuses/Retention**    | ~$2B       | Incentives for agents/staff                                  |
-| ⚖️ **Immigration Courts**   | ~$3.3B     | Hires judges/support staff; capped at 800 judges by Nov 2028 |
+| Category                 | Allocation | Purpose                                                      |
+| ------------------------ | ---------- | ------------------------------------------------------------ |
+| **Border Wall**          | ~$46.5B    | Cameras, lighting, surveillance, roads                       |
+| **Detention Capacity**   | ~$45B      | Camps/beds up to ~116K detainees                             |
+| **ICE Personnel & Tech** | ~$29.9B    | Agents, equipment, transport                                 |
+| **CBP Facilities**       | ~$5B       | Checkpoints, facility upgrades                               |
+| **Border Patrol Agents** | ~$4.1B     | Hiring/training for patrol, marine agents                    |
+| **Bonuses/Retention**    | ~$2B       | Incentives for agents/staff                                  |
+| **Immigration Courts**   | ~$3.3B     | Hires judges/support staff; capped at 800 judges by Nov 2028 |
 
 ### Sources
 ---
@@ -170,8 +168,6 @@ Trump is a known **TACO**, which stands for '**Trump Always Chickens Out.**' Thi
 ---
 Trump supporters utilize the talking point of "Biden weaponizing the DOJ" to distract from Donald Trump's mishandling of sensitive materials, which he seized as president and concealed in a Mar-a-Lago bathroom until 2023, when they were discovered during an FBI raid. However, Donald Trump has recently militarized the Department of Justice without the knowledge of his followers. First, he asked Attorney General Pam Bondi to form a "Weaponization Working Group" to investigate and destroy what they call "politicized" cases from the previous administration.
 
-Here’s the breakdown:
-
 - **Targeting Political Opponents**: [Bondi's DOJ launched investigations against the New York Attorney General's office and Sen. Adam Schiff (D-Calif) over potential mortgage fraud.](https://www.nbcnews.com/politics/justice-department/doj-opens-investigation-new-york-ags-office-brought-fraud-case-trump-rcna223731)  
   
 - **Dismissing Cases**: [Bondi dismissed Biden-era cases, including one against Georgia's voting regulations, claiming it ended "weaponized litigation" while shielding Trump's backers.](https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-dismisses-biden-era-lawsuit-against-commonsense-georgia)  
@@ -184,7 +180,12 @@ Here’s the breakdown:
 
 ## Failure of Mass Deportations (soon)
 ---
-Immigration was a winning topic for the Second Trump Administration (according to an [AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)). Their whole tagline included examples of migrant criminality and the term 'MASS DEPORTATIONS NOW'. There are 14-15 million undocumented migrants (actual. [14 million](https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/)) in the United States. T
+Immigration was a winning topic for the second Trump Administration (according to an [AP-NORC poll](https://apnews.com/article/harris-trump-economy-poll-inflation-dc80ac9e5d7da42900762910d5f0a283)). Their whole tagline included examples of immigrant criminals and branding all immigrants as criminal, illegal, rapists, this coined the term "MASS DEPORTATIONS NOW". 
+
+<img src="https://alabamareflector.com/wp-content/uploads/2024/07/Mass-Deportation-Now-sign.jpg">
+_Mass Deportation Now! signs at the 2024 Republican National Convention in Milwaukee, WI_
+
+There are 14-15 million undocumented migrants (actual. [14 million](https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/)) in the United States. Trump's goal was the largest mass deportations in American history, with [1 million illegals deported on day 1](https://www.politico.com/news/magazine/2024/12/29/mass-deportation-immigration-history-00195729#:~:text=Donald%20Trump%20has%20promised%20to%20deport%20millions%20of%20immigrants%20on%20%E2%80%9CDay%20One,%E2%80%9D%20boasting%20that%20it%20will%20be%20the%20%E2%80%9Clargest%20deportation%20operation%20in%20American%20history%E2%80%9D%20%E2%80%94%20though%20there%20are%20questions%20about%20both%20the%20legality%20of%20his%20plan%20and%20its%20potentially%20steep%20price%20tag). Except that has not happened
 ### Lies by DHS Sec Kristi Noem
 
 ## Trump’s 34 Felonies

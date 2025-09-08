@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/people/peter-thiel/peter-thiel/","tags":["research"],"created":"2025-09-07T15:44:24.000-04:00","updated":"2025-09-07T15:46:09.000-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/people/peter-thiel/peter-thiel/","tags":["research"],"created":"2025-09-07T15:44:24.000-04:00","updated":"2025-09-07T22:15:32.947-04:00"}
 ---
 
 ## Sources
