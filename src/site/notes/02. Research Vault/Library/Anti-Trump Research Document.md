@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-08T18:28:05.293-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-11T17:49:50.481-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -194,3 +194,6 @@ In a video by [@politipeach](https://files.catbox.moe/z8mi1e.mp4), she portrays 
 0:14: Peach says hush money isn't illegal, which it isn't illegal however, if you falsify business records to conceal a crime or violate campaign finance laws it is illegal.
 
 0:23: Peach says, "he labelled the payments as legal expenses"
+
+## 'Tune Down the Rhetoric'
+https://x.com/cspan/status/1966254949198643586
