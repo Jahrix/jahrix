@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-templates/jahrix-show-template/","tags":["jahrixshow","politics","dailynews","trump2025","edithere"],"created":"2025-09-02T22:28:02.209-04:00","updated":"2025-09-07T03:35:20.329-04:00"}
+{"dg-publish":true,"permalink":"/05. Templates/Jahrix Show Template/","tags":["jahrixshow","politics","dailynews","trump2025","edithere"],"created":"2025-09-02T22:28:02.209-04:00","updated":"2025-09-07T03:35:20.329-04:00"}
 ---
 
 # Daily News

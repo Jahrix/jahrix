@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/israel-palestine/events/1947-un-partition-plan/","created":"2025-08-20T15:59:49.703-04:00","updated":"2025-09-02T22:54:35.641-04:00"}
+{"dg-publish":true,"permalink":"/02. Research Vault/Israel-Palestine/Events/1947 UN Partition Plan/","created":"2025-08-20T15:59:49.703-04:00","updated":"2025-09-02T22:54:35.641-04:00"}
 ---
 
 | **Subject**                                           | United Nations Partition Plan for Palestine           |

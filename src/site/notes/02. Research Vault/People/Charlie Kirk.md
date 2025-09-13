@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/people/charlie-kirk/","tags":["research","edithere"],"created":"2025-09-11T21:12:41.790-04:00","updated":"2025-09-12T01:26:57.888-04:00"}
+{"dg-publish":true,"permalink":"/02. Research Vault/People/Charlie Kirk/","tags":["research","edithere"],"created":"2025-09-11T21:12:41.790-04:00","updated":"2025-09-13T09:57:41.792-04:00"}
 ---
 
 # Basic Info
 ---
 
-| Born: October 14th, 1993<br>in: Arlington Heights, IL<br><br>Died: September 10th, 2025 (aged 31)  <br>in: Orem, Utah  <br><br>Manner of death: Assassination  <br><br>Spouse: Erika Kirk | <img src=https://files.catbox.moe/b0vvhd.jpg> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Born: October 14th, 1993<br>in: Arlington Heights, IL<br><br>Died: September 10th, 2025 (aged 31)  <br>in: Orem, Utah  <br><br>Manner of death: Assassination  <br><br>Spouse: Erika Kirk | ![Charlie Kirk](https://files.catbox.moe/b0vvhd.jpg) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+
 
 
 
