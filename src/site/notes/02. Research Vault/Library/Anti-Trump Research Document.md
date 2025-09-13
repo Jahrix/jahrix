@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-11T17:49:50.481-04:00"}
+{"dg-publish":true,"permalink":"/02-research-vault/library/anti-trump-research-document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-12T17:17:44.840-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -33,7 +33,7 @@ Here is the enlarged lowdown:
 
 - **Immigration Overreach**: The OBBB funnels $133B+ into mass deportations, detention camps (116K beds), and border walls, but it's ineffective and cruel. ICE was already $1B over budget pre-bill. Cuts to Medicaid/food assistance hit low-income families hard. [Source: Axios, July 2025](https://www.axios.com/2025/07/03/immigration-spending-increases-trump-big-beautiful-bill); [Guardian, July 2025](https://www.theguardian.com/us-news/2025/jul/02/immigration-trump-big-beautiful-bill).
 
-- **Regulatory Rollbacks**: Trump's 186 executive orders (as of August 2025) rescind Biden-era protections, like BLM's NPR-A management for oil favoritism. DOGE is blocked from Treasury systems after court rulings. [Source: Federal Register, 2025](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025); [Brookings Tracker, June 2025](https://www.brookings.edu/articles/tracking-regulatory-changes-in-the-second-trump-administration/).
+- **Regulatory Rollbacks**: Trump's 186 executive orders (as of August 2025) rescind Biden protections, like BLM's NPR-A management for oil favoritism. DOGE is blocked from Treasury systems after court rulings. [Source: Federal Register, 2025](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025); [Brookings Tracker, June 2025](https://www.brookings.edu/articles/tracking-regulatory-changes-in-the-second-trump-administration/).
 
 - **DC Takeover**: Trump's presser rants about seizing DC police/National Guard contradicting low crime stats. [DC restaurants are actually losing customers despite Trump saying restaurants are busier than ever](https://www.fox5dc.com/news/dc-restaurant-dining-plunges-trumps-crime-crackdown-continues).
 
