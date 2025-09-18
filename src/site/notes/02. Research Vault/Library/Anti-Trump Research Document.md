@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02. Research Vault/Library/Anti-Trump Research Document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-13T09:59:06.298-04:00"}
+{"dg-publish":true,"permalink":"/02. Research Vault/Library/Anti-Trump Research Document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-17T12:08:42.636-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -65,12 +65,23 @@ Here is the enlarged lowdown:
 ## Truth Test: Trump vs. Biden and Kamala
 ---
 Trump is a serial liar. PolitiFact: 76% misleading or false, 18% pants on fire. Biden: 59% accurate, 41% incorrect or misleading. [Source: PolitiFact](https://www.politifact.com/article/2024/feb/01/what-politifact-learned-from-1000-fact-checks-of-don/). Fact-checking reveals that Harris' statements hold up better than Trump's. [FactCheck.org, July 2024](https://www.factcheck.org/2024/07/factchecking-vice-president-kamala-harris).
-## Anti-Kamala/Biden Talking Points
+## Anti-Biden/Harris Talking Points
 ---
 Trump's team/Conservative influencers distributes these talking points to divert attention away from his failures.  
   
-- **"Gas Prices Are Biden's Fault"**: No, global events such as the Russia-Ukraine conflict exacerbated them. Biden released reserves, and US production surpassed previous records. Trump's tariffs are currently the primary driver of inflation.  
-  
+- **"Gas Prices Are Biden's Fault"**: No, global events such as the Russia-Ukraine conflict exacerbated them. Biden released reserves, and US production surpassed previous records. Trump's tariffs are currently the primary driver of inflation. 
+
+- **"Biden/Harris caused record inflation and wrecked the economy"**
+     Trump supporters enjoy asserting that Biden and Harris destroyed the economy through inflation, a "winning topic" he capitalized on for success.  Indeed, inflation reached a high of [9.1% in June 2022](https://www.usinflationcalculator.com/inflation/current-inflation-rates/), but that was due to worldwide turmoil, COVID recovery and the Russia-Ukraine War drove prices up globally, not solely in the U.S. By May 2023, as COVID stopped being a global emergency concern and inflation gradually decreased from 9.1% to 3% 
+         Fast forward to 2025. Due to Trump’s tariffs, inflation has risen to [2.9%](https://www.bls.gov/cpi/) while core rates stand at [3.1%.](https://tradingeconomics.com/united-states/inflation-cpi)
+
+- **"Biden's family is grifters"**
+    - Jared Kushner
+    - Eric & Don Jr
+
+- **"Harris is a DEI hire"**
+    - f
+
 - **"Trump Didn't Start Any Wars"** is false. Troops were deployed in numerous locations, and drone strikes killed civilians (e.g., Soleimani). Biden oversaw Trump's failed Afghanistan withdrawal.  
     - [In 2018, the Trump administration supplied 210 Javelin anti-tank missiles to Ukraine for $47 million.](https://www.armscontrol.org/act/2018-04/news-briefs/us-anti-tank-missiles-headed-ukraine).  
   
@@ -84,9 +95,7 @@ Trump's team/Conservative influencers distributes these talking points to divert
 As of September 1st, 2025, Trump has spent 58 out of his 224 days in office **(~25.0%)** playing golf. That’s **$81.2 million** in taxpayer costs.  
 — Source: [DidTrumpGolfToday.com](https://didtrumpgolftoday.com/) | [Trump's Schedule - RollCall](https://rollcall.com/factbase/trump/topic/calendar/)
 
-## Trump's OBBB (One Big Beautiful Bill)
----
-### Full Analysis
+## Trump's One Big Beautiful Bill
 ---
 On **Friday, July 4th, 2025**, President Trump signed the **One Big Beautiful Bill**, which features an unprecedented expansion of immigration enforcement in line with his second-term policy goal.  
   
@@ -196,4 +205,10 @@ In a video by [@politipeach](https://files.catbox.moe/z8mi1e.mp4), she portrays 
 0:23: Peach says, "he labelled the payments as legal expenses"
 
 ## 'Tune Down the Rhetoric'
-https://x.com/cspan/status/1966254949198643586
+![](https://x.com/cspan/status/1966254949198643586)
+
+## Censorship
+[$15bn lawsuit against NYT](https://truthsocial.com/@realDonaldTrump/posts/115211918198289404)
+
+## Corruption
+**Trevor Milton**
