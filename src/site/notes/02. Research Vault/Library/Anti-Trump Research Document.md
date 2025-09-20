@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02. Research Vault/Library/Anti-Trump Research Document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-17T12:08:42.636-04:00"}
+{"dg-publish":true,"permalink":"/02. Research Vault/Library/Anti-Trump Research Document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-20T00:57:05.733-04:00"}
 ---
 
 Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
@@ -12,7 +12,7 @@ Here is the enlarged lowdown:
   
 - **Middle East**: Trump failed to implement the Day 1 Gaza truce, resulting in renewed Israeli military operations and more suffering. His unbalanced pro-Israel stance has alienated allies and fueled conflict. [Source: American Progress, April 2025](http://www.americanprogress.org/article/100-days-of-the-trump-administrations-foreign-policy-global-chaos-american-weakness-and-human-suffering/).  
   
-- **Ukraine Betrayal**: His "policy toward Ukraine" is an abject failure. Pushing for concessions like "land swapping" with Russia, which smacks of appeasement. He rambled about Russian generals taking "farmland" approaches to Kyiv in news conferences, but in reality, he has undermined NATO backing, allowing Putin to gain ground. No U.S. boots? Yes, but his delays have cost lives. [Source: CFR, April 2025](https://www.cfr.org/article/first-100-days-trumps-foreign-policy-disruption-is-just-starting).  
+- **Ukraine Betrayal**: His "policy toward Ukraine" is an abject failure. Pushing for concessions like "land swapping" with Russia, which smacks of appeasement. He rambled about Russian generals taking "farmland" approaches to Kyiv in news conferences, but in reality, he has undermined NATO backing, allowing Putin to gain ground. No U.S. boots? Yes, but his delays have cost lives. [Source: CFR, April 2025](https://www.cfr.org/article/first-100-days-trumps-foreign-policy-disruption-is-just-starting)
   
 - **Tariff Wars Hurting Allies**: Imposing 35% tariffs on Canada for fentanyl (despite only 119lbs confiscated between 2022 and 2025) and threats against Mexico and China are stifling commerce. Economists believe this could slow global development by 2025. [Source: PIIE Working Paper, June 2025](https://www.piie.com/publications/working-papers/2025/global-economic-effects-trumps-2025-tariffs) and [CBP Stats](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics). He threatened Brazil with 50% tariffs if it dropped charges against Bolsonaro, intervening in the affairs of allies like a bully. [Source: MEI, May 2025](https://www.mei.edu/publications/trumps-diplomatic-failures-russia-cast-pall-over-his-middle-east-efforts); [CBS on Bolsonaro](https://www.cbsnews.com/news/Brazil-jair-bolsonaro-donald-trump-violent-overthrow-coup-plot/).  
   
@@ -78,9 +78,6 @@ Trump's team/Conservative influencers distributes these talking points to divert
 - **"Biden's family is grifters"**
     - Jared Kushner
     - Eric & Don Jr
-
-- **"Harris is a DEI hire"**
-    - f
 
 - **"Trump Didn't Start Any Wars"** is false. Troops were deployed in numerous locations, and drone strikes killed civilians (e.g., Soleimani). Biden oversaw Trump's failed Afghanistan withdrawal.  
     - [In 2018, the Trump administration supplied 210 Javelin anti-tank missiles to Ukraine for $47 million.](https://www.armscontrol.org/act/2018-04/news-briefs/us-anti-tank-missiles-headed-ukraine).  

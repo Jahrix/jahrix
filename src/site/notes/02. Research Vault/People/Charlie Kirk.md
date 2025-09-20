@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02. Research Vault/People/Charlie Kirk/","tags":["research","edithere"],"created":"2025-09-11T21:12:41.790-04:00","updated":"2025-09-13T10:09:38.895-04:00"}
+{"dg-publish":true,"permalink":"/02. Research Vault/People/Charlie Kirk/","tags":["research","edithere"],"created":"2025-09-11T21:12:41.790-04:00","updated":"2025-09-20T00:55:51.727-04:00"}
 ---
 
 # Basic Info
@@ -20,4 +20,4 @@
 | Founder/Leader | Turning Point USA | June 5, 2012 - September 10th, 2025**†** |
 
 # Important Notes
-<img src="https://pbs.twimg.com/media/G0lKOqBW4AAsJsj?format=jpg&name=large">
+
