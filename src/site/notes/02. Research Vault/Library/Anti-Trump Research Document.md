@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02. Research Vault/Library/Anti-Trump Research Document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-20T00:57:05.733-04:00"}
+{"dg-publish":true,"permalink":"/02. Research Vault/Library/Anti-Trump Research Document/","tags":["policy","research"],"created":"2025-06-27T00:05:00.604-04:00","updated":"2025-09-25T16:57:56.326-04:00"}
 ---
-
-Trump came to the White House promising "winning bigly" and "America is BACK," but by September 2025, it's clear he's mismanaging everything. Inflation is growing as a result of his trade wars, global alliances are disintegrating, and his domestic policies are disproportionately hitting the working class.
 
 ## Foreign Policy  
 ---  
 His "America First" rhetoric has isolated us, encouraged adversaries, and weakened US influence. Global confidence in him to handle economic difficulties is a pathetic 32% across 24 countries, with 67% lacking faith. [Source: Pew Research, June 2025](https://www.pewresearch.org/global/2025/06/11/trust-in-trump-to-manage-global-issues/).
 
-Here is the enlarged lowdown:  
-  
-- **Middle East**: Trump failed to implement the Day 1 Gaza truce, resulting in renewed Israeli military operations and more suffering. His unbalanced pro-Israel stance has alienated allies and fueled conflict. [Source: American Progress, April 2025](http://www.americanprogress.org/article/100-days-of-the-trump-administrations-foreign-policy-global-chaos-american-weakness-and-human-suffering/).  
+- **Middle East**: Trump failed to implement the Day 1 Gaza ceasefire, resulting in renewed Israeli military operations and more suffering. His unbalanced pro-Israel stance has alienated allies and fueled conflict. [Source: American Progress, April 2025](http://www.americanprogress.org/article/100-days-of-the-trump-administrations-foreign-policy-global-chaos-american-weakness-and-human-suffering/).  
   
 - **Ukraine Betrayal**: His "policy toward Ukraine" is an abject failure. Pushing for concessions like "land swapping" with Russia, which smacks of appeasement. He rambled about Russian generals taking "farmland" approaches to Kyiv in news conferences, but in reality, he has undermined NATO backing, allowing Putin to gain ground. No U.S. boots? Yes, but his delays have cost lives. [Source: CFR, April 2025](https://www.cfr.org/article/first-100-days-trumps-foreign-policy-disruption-is-just-starting)
   
