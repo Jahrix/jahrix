@@ -1,44 +1,25 @@
 # Jah
 
-Software developer building **[Aurelia Works](https://github.com/aurelia-works)** — macOS apps, graphics and rendering technology, performance tooling, and creative developer tools.
+I build Minecraft transit and rendering mods and native macOS apps under [Aurelia Works](https://github.com/aurelia-works).
 
-I like working close to the system: profiling bottlenecks, building native tooling, experimenting with rendering pipelines, and turning rough ideas into software I can actually use.
+## Active
 
-## Current work
+- **[Aurelia Transit Railway](https://github.com/aurelia-works/Aurelia-Transit-Railway)**: a Minecraft transit mod for Fabric 1.20.1. Trains follow route control, run through block-spaced signals with AWS and TPWS, and have a driver HUD. Passengers walk real routes to platforms and board through doors.
+- **[Aurelia Transit Architecture](https://github.com/aurelia-works/aurelia-transit-architecture)** (ATA): builds stations, airports, bridges and earthworks inside Minecraft Transit Railway 4. One wrench has a mode for each, builds rise layer by layer, and a see-through hologram shows a planned station before it is placed. Also signage, live PIDS and fare gates.
+- **AureliaProps**: a private app for NBA matchups, NFL props and soccer players, with a developer panel for live switches and sliders.
 
-### Aurelia Labs
+## Paused
 
-- **Aurelia LOD** — a macOS / Apple Silicon-focused distant-LOD renderer for Minecraft Java, built around low overhead and predictable performance.
-- **Aurelia Shaders** — a lightweight cinematic Iris shaderpack focused on strong visuals without giving up playability on lower-power hardware.
-- **Aurelia Voice** — a native macOS voice-to-text app with global hotkeys, fast dictation workflows, and system-level integration.
-- **CruiseControl** — a macOS companion for X-Plane focused on diagnostics, performance monitoring, tuning, and safe automation.
-
-## What I like building
-
-- Native **macOS apps and utilities**
-- **Graphics, rendering, and performance** systems
-- Minecraft **Fabric mods** and shader tooling
-- Developer tools and workflow automation
-- Discord bots, moderation systems, and backend utilities
-- Flight-simulation tooling and diagnostics
+- **[Aurelia Shaders](https://github.com/aurelia-works/AureliaShaders)**: an Iris shaderpack for Minecraft Java 1.20.1, tuned for Apple Silicon. One compact shadow map, no extra render targets.
+- **Aurelia LOD**: a distant-LOD renderer for Minecraft 1.20.1 (Fabric), tuned for Apple Silicon. Private.
+- **Aurelia Voice**: a macOS voice-to-text app with global hotkeys. Private.
+- **CruiseControl**: a macOS companion for X-Plane with diagnostics, performance monitoring and tuning. Private.
 
 ## Tech
 
-**Languages:** Swift, Java, GLSL, JavaScript / TypeScript, Python, C++  
-**Platforms & frameworks:** macOS, SwiftUI, Fabric, Iris, OpenGL, Discord.js, X-Plane  
-**Tools:** Git, GitHub, Xcode, Codex/CLI workflows, Railway, Prism Launcher
-
-## Current interests
-
-- Apple Silicon optimization
-- Real-time rendering
-- Performance profiling and diagnostics
-- Native macOS UX
-- Voice interfaces
-- Tools that make complex workflows feel simple
+Java, Swift, Rust, TypeScript, Python, GLSL. Fabric, Iris, SwiftUI, X-Plane.
 
 ## Elsewhere
 
-- **GitHub:** [@jahrix](https://github.com/jahrix)
-- **Aurelia Labs:** [github.com/aurelia-works](https://github.com/aurelia-works)
-- **X:** [@Jahrix](https://twitter.com/Jahrixx)
+- [github.com/aurelia-works](https://github.com/aurelia-works)
+- X: [@Jahrixx](https://x.com/Jahrixx)
