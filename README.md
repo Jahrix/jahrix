@@ -6,18 +6,24 @@ I build Minecraft transit and rendering mods and native macOS apps under [Aureli
 
 - **[Aurelia Transit Railway](https://github.com/aurelia-works/Aurelia-Transit-Railway)**: a Minecraft transit mod for Fabric 1.20.1. Trains follow route control, run through block-spaced signals with AWS and TPWS, and have a driver HUD. Passengers walk real routes to platforms and board through doors.
 - **[Aurelia Transit Architecture](https://github.com/aurelia-works/aurelia-transit-architecture)** (ATA): builds stations, airports, bridges and earthworks inside Minecraft Transit Railway 4. One wrench has a mode for each, builds rise layer by layer, and a see-through hologram shows a planned station before it is placed. Also signage, live PIDS and fare gates.
-- **AureliaProps**: a private app for NBA matchups, NFL props and soccer players, with a developer panel for live switches and sliders.
+- **Aurelia Landscape**: realistic terrain for building cities in Minecraft 1.20.1 (Fabric). Regions modelled on real metro areas like New York, London and Hong Kong, at 1 block = 4 m, with big winding rivers, shallow harbours and 27 biomes. Vanilla blocks only. Private.
+- **[Aurelia Radio](https://github.com/aurelia-works/AureliaRadio)**: a local AI air traffic controller for X-Plane with ICAO phraseology, starting at Orlando (KMCO). Push-to-talk on COM1, no cloud. Early: the clearance core, Tauri console and X-Plane bridge exist.
+- **[Aurelia Launch](https://github.com/aurelia-works/AureliaLaunch)**: an open-source macOS launcher in the spirit of Alfred and Raycast. Rust core, thin Tauri shell, light when idle.
+- **AureliaProps**: a macOS app for NBA, NFL, college basketball and soccer player props. Stats, injuries and lines from several sources on one screen, its own line from game logs, and Claude answers about the saved data. Private.
+- **AureliaCode**: a macOS agent IDE that runs several Claude Code accounts and other agent CLIs side by side, with a board of what each one needs. Private.
+- **[jahrix-stack](https://github.com/Jahrix/jahrix-stack)**: agent skills for PR work (review, ship, adopt), adapted from t3dotgg/tstack.
 
 ## Paused
 
 - **[Aurelia Shaders](https://github.com/aurelia-works/AureliaShaders)**: an Iris shaderpack for Minecraft Java 1.20.1, tuned for Apple Silicon. One compact shadow map, no extra render targets.
 - **Aurelia LOD**: a distant-LOD renderer for Minecraft 1.20.1 (Fabric), tuned for Apple Silicon. Private.
 - **Aurelia Voice**: a macOS voice-to-text app with global hotkeys. Private.
+- **Aurelia Browser**: a minimal Chromium browser for macOS with no telemetry, accounts, AI sidebar or news feed. Private.
 - **CruiseControl**: a macOS companion for X-Plane with diagnostics, performance monitoring and tuning. Private.
 
 ## Tech
 
-Java, Swift, Rust, TypeScript, Python, GLSL. Fabric, Iris, SwiftUI, X-Plane.
+Java, Swift, Rust, TypeScript, Python, GLSL. Fabric, Iris, SwiftUI, Tauri, X-Plane.
 
 ## Elsewhere
 
